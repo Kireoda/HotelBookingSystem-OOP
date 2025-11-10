@@ -1,54 +1,45 @@
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
-
-class Reservation {
-    private String country;
+public class HotelRoom {
     private String hotelName;
-    private int beds;
-    private double pricePerDay;
+    private String roomNumber;
+    private String roomType; //single, double, suite, family
+    private int capacity;// amount of people
+    private double pricePerNight;
     private boolean isBooked;
-    private LocalDate arrivalDate;
-    private LocalDate departureDate;
-    private LocalDateTime checkInTime;
-
-    // figure out how to input csv file into constructor
+    private LocalDate lastMaintenanceDate;
+    private LocalDate nextAvailableDate;
+    private int hotelRating;
 
     //region Constructors
-    public Hotel(String country, String hotelName, int beds, double pricePerDay,
-                 boolean isBooked, LocalDate arrivalDate, LocalDate departureDate,
-                 LocalDateTime checkInTime) {
-        this.country = country;
+    public HotelRoom(String hotelName, String roomNumber, String roomType, int capacity,
+                     double pricePerNight, boolean isBooked, LocalDate lastMaintenanceDate,
+                     LocalDate nextAvailableDate, int hotelRating) {
         this.hotelName = hotelName;
-        this.beds = beds;
-        this.pricePerDay = pricePerDay;
+        this.roomNumber = roomNumber;
+        this.roomType = roomType;
+        this.capacity = capacity;
+        this.pricePerNight = pricePerNight;
         this.isBooked = isBooked;
-        this.arrivalDate = arrivalDate;
-        this.departureDate = departureDate;
-        this.checkInTime = checkInTime;
+        this.lastMaintenanceDate = lastMaintenanceDate;
+        this.nextAvailableDate = nextAvailableDate;
+        this.hotelRating = hotelRating;
     }
 
-    public Hotel() {
-        this.country = "";
+    public HotelRoom() {
         this.hotelName = "";
-        this.beds = 0;
-        this.pricePerDay = 0.0;
+        this.roomNumber = "";
+        this.roomType = "";
+        this.capacity = 0;
+        this.pricePerNight = 0.0;
         this.isBooked = false;
-        this.arrivalDate = LocalDate.now();
-        this.departureDate = LocalDate.now().plusDays(7);
-        this.checkInTime = LocalDateTime.now();
+        this.lastMaintenanceDate = LocalDate.now();
+        this.nextAvailableDate = LocalDate.now();
+        this.hotelRating = 0;
     }
     //endregion
 
     //region Getters and Setters
-    public String getCountry() {
-        return country;
-    }
-
-    public void setCountry(String country) {
-        this.country = country;
-    }
-
     public String getHotelName() {
         return hotelName;
     }
@@ -57,20 +48,36 @@ class Reservation {
         this.hotelName = hotelName;
     }
 
-    public int getBeds() {
-        return beds;
+    public String getRoomNumber() {
+        return roomNumber;
     }
 
-    public void setBeds(int beds) {
-        this.beds = beds;
+    public void setRoomNumber(String roomNumber) {
+        this.roomNumber = roomNumber;
     }
 
-    public double getPricePerDay() {
-        return pricePerDay;
+    public String getRoomType() {
+        return roomType;
     }
 
-    public void setPricePerDay(double pricePerDay) {
-        this.pricePerDay = pricePerDay;
+    public void setRoomType(String roomType) {
+        this.roomType = roomType;
+    }
+
+    public int getCapacity() {
+        return capacity;
+    }
+
+    public void setCapacity(int capacity) {
+        this.capacity = capacity;
+    }
+
+    public double getPricePerNight() {
+        return pricePerNight;
+    }
+
+    public void setPricePerNight(double pricePerNight) {
+        this.pricePerNight = pricePerNight;
     }
 
     public boolean isBooked() {
@@ -81,52 +88,89 @@ class Reservation {
         isBooked = booked;
     }
 
-    public LocalDate getarrivalDate() {
-        return arrivalDate;
+    public LocalDate getLastMaintenanceDate() {
+        return lastMaintenanceDate;
     }
 
-    public void setarrivalDate(LocalDate arrivalDate) {
-        this.arrivalDate = arrivalDate;
+    public void setLastMaintenanceDate(LocalDate lastMaintenanceDate) {
+        this.lastMaintenanceDate = lastMaintenanceDate;
     }
 
-    public LocalDate getdepartureDate() {
-        return departureDate;
+    public LocalDate getNextAvailableDate() {
+        return nextAvailableDate;
     }
 
-    public void setdepartureDate(LocalDate departureDate) {
-        this.departureDate = departureDate;
+    public void setNextAvailableDate(LocalDate nextAvailableDate) {
+        this.nextAvailableDate = nextAvailableDate;
     }
 
-    public LocalDateTime getCheckInTime() {
-        return checkInTime;
+    public int getHotelRating() {
+        return hotelRating;
     }
 
-    public void setCheckInTime(LocalDateTime checkInTime) {
-        this.checkInTime = checkInTime;
+    public void setHotelRating(int hotelRating) {
+        this.hotelRating = hotelRating;
     }
-//endregion
-
-    public String toString() {
-        return "Hotel{" +
-                "country='" + country + '\'' +
-                ", hotelName='" + hotelName + '\'' +
-                ", beds=" + beds +
-                ", pricePerDay=" + pricePerDay +
-                ", isBooked=" + isBooked +
-                ", arrivalDate=" + arrivalDate +
-                ", departureDate=" + departureDate +
-                ", checkInTime=" + checkInTime +
-                '}';
-    }
+    //endregion
 
     //region Methods
-    public int calculateDaysBooked() {
-        return (int) this.departureDate.toEpochDay() - (int) this.arrivalDate.toEpochDay(); // toEpochDay() was aied
+    public double bookRoom(LocalDate checkInDate, int nights) {
+        //marks room as booked and updates next available date
     }
 
-    public double calculateTotalPrice() {
-        return this.calculateDaysBooked() * this.pricePerDay;
+    public void cancelRoomBooking() {
+        //frees a room isbooked set to false and updates nextavailabledate
     }
 
-    //endregion
+    public void isRoomAvailable(LocalDate date){
+        //returns if room is available on specific date
+    }
+
+    public double calculateTotalPrice(int nights) {
+        //returns price per night * number of nights
+    }
+
+    public void updatePrice(double newPrice){
+        //changes the price for room
+    }
+
+    public void updateRating(int rating){
+        //updates hotel rating and validates it to be 0 - 5
+    }
+
+    public void performMaintenance(LocalDate maintenanceDate) {
+        //updates lastmaintencance date and updates nextavailabledate
+    }
+
+    public boolean needMaintenance(){
+        //returns true if the room requires maintenance eg. hasnt had maintenance for 6 or more months also sets avilablility to false
+    }
+
+    public void SortPrice(){
+       //sorts rooms by price from lowest to highest
+    }
+
+    public void SortRating(){
+        //sorts rooms by rating from lowest to highest
+    }
+
+    public void SortAvailability(){
+      //sorts rooms by availability from lowest to highest
+    }
+
+    @Override
+    public String toString() {
+        return "HotelRoom{" +
+                "hotelName='" + hotelName + '\'' +
+                ", roomNumber='" + roomNumber + '\'' +
+                ", roomType='" + roomType + '\'' +
+                ", capacity=" + capacity +
+                ", pricePerNight=" + pricePerNight +
+                ", isBooked=" + isBooked +
+                ", lastMaintenanceDate=" + lastMaintenanceDate +
+                ", nextAvailableDate=" + nextAvailableDate +
+                ", hotelRating=" + hotelRating +
+                '}';
+    }
 }
+
