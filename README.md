@@ -1,21 +1,4 @@
-# Travel-OOP-thing
-
-We decided to base our project on a Hotel management system. It lets users record their trips with details like location,
-date, rating. Trips could be sorted by date or rating and searched by country.
-String - HotelName
-String - roomNumber
-String - roomType
-Int - capacity
-Double - pricePerNight
-Boolean - isBooked
-LocalDate - lastMaintenanceDate
-LocalDate - nextAvailableTime
-int - hotelRating
-
-Start with a menu to select a hotel to view/manage
-Be able to look at details about the room
-Calculate price of a stay
-Sort rooms by price,capacity and type
+The Hotel Management System is designed to help users record, manage, and track hotel room reservations efficiently. It allows users to store details about each room, including the hotel name, room number and type, capacity, price per night, booking status, maintenance dates, and hotel rating. Users can book rooms for specific dates, check availability, and cancel bookings. The system can calculate the total cost for a stay, update nightly rates, and manage hotel ratings. It also tracks and schedules maintenance to ensure rooms remain in good condition. Additionally, users can search for rooms by location or hotel and sort them by availability or rating. This program is useful both for travelers who want to plan and record their trips and for hotel staff who need to manage room availability, pricing, and maintenance efficiently.
 
 Stage 1 - What to Deliver (40%)
 Entity Definition	≥7 typed fields; encapsulated; validation with clear messages.	6%
