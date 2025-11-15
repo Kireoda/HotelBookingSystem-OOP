@@ -4,6 +4,7 @@ import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.Comparator;
 
+
 public class HotelRoom implements Comparable<HotelRoom> {
     // Default maintenance interval: 6 months (180 days)
     private static final int MAINTENANCE_INTERVAL_DAYS = 180;
