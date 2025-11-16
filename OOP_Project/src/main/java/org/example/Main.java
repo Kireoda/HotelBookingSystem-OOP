@@ -8,7 +8,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         // Load rooms from CSV
-        List<HotelRoom> rooms = loadFromCSV("data/hotelRooms.csv");
+        List<HotelRoom> rooms = loadFromCSV("OOP_Project/src/data/hotelRooms.csv");
 
         // Show number of valid rooms and a sample
         System.out.println("Loaded " + rooms.size() + " valid rooms");
