@@ -28,9 +28,9 @@ public class Main {
                 rooms.forEach(System.out::println);
                 break;
             case 3:
-                // Sorting by maintenance need
-                rooms.sort(new HotelRoom.MaintenanceComparator());
-                System.out.println("\nRooms sorted by maintenance need:");
+                // Sorting by Room Number
+                rooms.sort(new HotelRoom.RoomNumberComparator());
+                System.out.println("\nRooms sorted by room number:");
                 rooms.forEach(System.out::println);
                 break;
             default:
@@ -86,7 +86,7 @@ public class Main {
             System.out.println("Choose sorting option");
             System.out.println("1. Price");
             System.out.println("2. Rating");
-            System.out.println("3. Maintenance");
+            System.out.println("3. Room Number");
             System.out.print("Enter your choice (1-3): ");
             try {
                 choice = sc.nextInt();

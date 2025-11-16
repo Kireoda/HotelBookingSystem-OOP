@@ -268,6 +268,13 @@ public class HotelRoom implements Comparable<HotelRoom> {
             return Double.compare(a.getPricePerNight(), b.getPricePerNight()); // if tie-breaker, cheaper first
         }
     }
+    //Comparator for room Number
+    public static class RoomNumberComparator implements Comparator<HotelRoom> {
+        @Override
+        public int compare(HotelRoom a, HotelRoom b) {
+            return a.getRoomNumber().compareToIgnoreCase(b.getRoomNumber());
+        }
+    }
 
     // Comparator for maintenance need
     public static class MaintenanceComparator implements Comparator<HotelRoom> {
