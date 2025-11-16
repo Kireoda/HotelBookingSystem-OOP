@@ -18,10 +18,40 @@ public class HotelRoom implements Comparable<HotelRoom> {
     private LocalDate nextAvailableDate;
     private int hotelRating;
 
+    //Handle Constructor Error
+    private void validateString(String value, String fieldName) {
+        if (value == null || value.trim().isEmpty()) {
+            throw new IllegalArgumentException(fieldName + " cannot be blank.");
+        }
+    }
+    private void validateCapacity(int capacity) {
+        if (capacity <= 0) {
+            throw new IllegalArgumentException("Capacity must be greater than 0.");
+        }
+    }
+    private void validatePrice(double price) {
+        if (price <= 0) {
+            throw new IllegalArgumentException("Price cannot be negative or 0");
+        }
+    }
+    private void validateRating(int rating) {
+        if (rating < 0 || rating > 5) {
+            throw new IllegalArgumentException("Rating must be between 0 and 5.");
+        }
+    }
+
     //region Constructors
     public HotelRoom(String hotelName, String roomNumber, String roomType, int capacity,
                      double pricePerNight, boolean isBooked, LocalDate lastMaintenanceDate,
                      LocalDate nextAvailableDate, int hotelRating) {
+        // Validate constructor parameters
+        validateString(hotelName, "Hotel Name");
+        validateString(roomNumber, "Room Number");
+        validateString(roomType, "Room Type");
+        validateCapacity(capacity);
+        validatePrice(pricePerNight);
+        validateRating(hotelRating);
+
         this.hotelName = hotelName;
         this.roomNumber = roomNumber;
         this.roomType = roomType;
@@ -37,14 +67,15 @@ public class HotelRoom implements Comparable<HotelRoom> {
         this.hotelName = "";
         this.roomNumber = "";
         this.roomType = "";
-        this.capacity = 0;
-        this.pricePerNight = 0.0;
+        this.capacity = 1;
+        this.pricePerNight = 1.0;
         this.isBooked = false;
         this.lastMaintenanceDate = LocalDate.now();
         this.nextAvailableDate = LocalDate.now();
         this.hotelRating = 0;
     }
     //endregion
+    //Constructor error Handling
 
     //region Getters and Setters (Omitted for brevity, assuming they are correct)
     public String getHotelName() {
@@ -52,6 +83,7 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     public void setHotelName(String hotelName) {
+        validateString(hotelName, "Hotel Name");
         this.hotelName = hotelName;
     }
 
@@ -60,6 +92,7 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     public void setRoomNumber(String roomNumber) {
+        validateString(roomNumber, "Room Number");
         this.roomNumber = roomNumber;
     }
 
@@ -68,6 +101,7 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     public void setRoomType(String roomType) {
+        validateString(roomType, "Room Type");
         this.roomType = roomType;
     }
 
@@ -76,6 +110,7 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     public void setCapacity(int capacity) {
+        validateCapacity(capacity);
         this.capacity = capacity;
     }
 
@@ -84,6 +119,7 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     public void setPricePerNight(double pricePerNight) {
+        validatePrice(pricePerNight);
         this.pricePerNight = pricePerNight;
     }
 
@@ -116,6 +152,7 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     public void setHotelRating(int hotelRating) {
+        validateRating(hotelRating);
         this.hotelRating = hotelRating;
     }
     //endregion
