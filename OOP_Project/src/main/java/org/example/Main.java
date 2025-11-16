@@ -9,25 +9,34 @@ public class Main {
     public static void main(String[] args) {
         // Load rooms from CSV
         List<HotelRoom> rooms = loadFromCSV("OOP_Project/src/data/hotelRooms.csv");
-
         // Show number of valid rooms and a sample
         System.out.println("Loaded " + rooms.size() + " valid rooms");
         rooms.stream().limit(3).forEach(System.out::println);
 
-        //sorting by price (natural order)
-        rooms.sort(null);
-        System.out.println("\nRooms sorted by price:");
-        rooms.stream().limit(3).forEach(System.out::println);
-
-        //sorting by rating
-        rooms.sort(new HotelRoom.ByRatingComparator());
-        System.out.println("\nRooms sorted by rating:");
-        rooms.stream().limit(3).forEach(System.out::println);
-
-        //sorting by maintenance need
-        rooms.sort(new HotelRoom.MaintenanceComparator());
-        System.out.println("\nRooms sorted by maintenance need:");
-        rooms.stream().limit(3).forEach(System.out::println);
+        int sortChoice = sortingOptions();
+        switch (sortChoice) {
+            case 1:
+                // Sorting by price (natural order)
+                rooms.sort(null);
+                System.out.println("\nRooms sorted by price(Ascending):");
+                rooms.forEach(System.out::println);
+                break;
+            case 2:
+                // Sorting by rating
+                rooms.sort(new HotelRoom.ByRatingComparator());
+                System.out.println("\nRooms sorted by rating:");
+                rooms.forEach(System.out::println);
+                break;
+            case 3:
+                // Sorting by maintenance need
+                rooms.sort(new HotelRoom.MaintenanceComparator());
+                System.out.println("\nRooms sorted by maintenance need:");
+                rooms.forEach(System.out::println);
+                break;
+            default:
+                System.err.println("Invalid sorting option selected.");
+                break;
+        }
 
     }
     // CSV loader
@@ -66,7 +75,32 @@ public class Main {
         } catch (FileNotFoundException e) {
             System.err.println("CSV file not found: " + filename);
         }
-
         return rooms;
+    }
+    public static int sortingOptions() {
+        Scanner sc = new Scanner(System.in);
+        int choice = 0;
+        boolean validInput = false;
+        
+        while (!validInput) {
+            System.out.println("Choose sorting option");
+            System.out.println("1. Price");
+            System.out.println("2. Rating");
+            System.out.println("3. Maintenance");
+            System.out.print("Enter your choice (1-3): ");
+            try {
+                choice = sc.nextInt();
+                if (choice >= 1 && choice <= 3) {
+                    validInput = true;
+                } 
+                else {
+                    System.err.println("Invalid choice. Please enter a number between 1 and 3.");
+                }
+            } catch (InputMismatchException e) {
+                System.err.println("Invalid input. Please enter a number.");
+                sc.nextLine(); 
+            }
+        }
+        return choice;
     }
 }
