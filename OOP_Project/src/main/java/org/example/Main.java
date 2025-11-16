@@ -53,7 +53,9 @@ public class Main {
 
                 if (cols.length < 9) {
                     System.out.println("Skipping row " + row + ": not enough columns");
-                } else {
+                }
+                else
+                {
                     try {
                         HotelRoom hr = new HotelRoom(
                                 cols[0],
@@ -67,7 +69,8 @@ public class Main {
                                 Integer.parseInt(cols[8])
                         );
                         rooms.add(hr);
-                    } catch (Exception e) {
+                    }
+                    catch (NumberFormatException | ArrayIndexOutOfBoundsException e) {
                         System.out.println("Invalid row " + row + ": " + e.getMessage());
                     }
                 }
@@ -84,7 +87,7 @@ public class Main {
         
         while (!validInput) {
             System.out.println("Choose sorting option");
-            System.out.println("1. Price");
+            System.out.println("1. Price(Natural Order)");
             System.out.println("2. Rating");
             System.out.println("3. Room Number");
             System.out.print("Enter your choice (1-3): ");
