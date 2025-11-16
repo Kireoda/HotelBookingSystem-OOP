@@ -1,0 +1,1001 @@
+hotelName,roomNumber,roomType,capacity,pricePerNight,isBooked,lastMaintenanceDate,nextAvailableDate,hotelRating
+Golden Leaf Inn,808,Deluxe,3,247.67,False,2023-11-09,2025-05-05T16:59:41,1
+Ocean View Hotel,617,Deluxe,5,114.81,True,2024-04-16,2025-05-17T09:20:23,3
+Sunrise Resort,695,Suite,6,414.12,True,2024-10-18,2025-01-12T08:55:38,4
+Royal Stay,215,Double,1,176.82,True,2024-12-23,2025-07-27T06:33:40,5
+Sunrise Resort,597,Double,1,270.78,True,2023-01-22,2025-09-29T17:15:02,4
+Comfort Suites,377,Deluxe,6,226.71,False,2024-07-02,2025-09-07T09:51:21,1
+Ocean View Hotel,225,Deluxe,1,135.58,True,2023-12-26,2025-04-17T23:45:27,5
+Golden Leaf Inn,931,Double,6,319.67,False,2023-01-03,2025-02-02T14:17:24,3
+Ocean View Hotel,957,Suite,2,137.35,False,2023-07-19,2025-08-12T07:43:16,5
+Paradise Hotel,314,Double,5,426.45,False,2024-04-30,2025-05-05T20:33:37,2
+Golden Leaf Inn,917,Deluxe,5,366.21,True,2023-05-13,2025-04-25T03:53:04,4
+Ocean View Hotel,112,Double,5,291.31,False,2024-04-04,2025-08-26T08:30:33,3
+Ocean View Hotel,977,Double,5,258.89,False,2024-06-19,2025-10-26T19:40:02,3
+Golden Leaf Inn,562,Deluxe,4,495.77,False,2023-06-15,2025-12-21T16:51:24,5
+Lakeside Lodge,499,Double,6,61.57,True,2023-02-25,2025-11-28T02:58:31,4
+Mountain Retreat,344,Single,4,185.84,False,2023-04-29,2025-12-24T21:01:00,5
+Golden Leaf Inn,476,Double,2,163.83,False,2024-09-06,2025-07-05T19:42:56,5
+City Central Inn,918,Single,3,483.8,True,2023-10-24,2025-12-16T15:50:45,4
+Sunrise Resort,334,Deluxe,5,85.61,True,2024-09-04,2025-04-27T09:09:10,3
+Mountain Retreat,920,Deluxe,5,261.78,True,2024-12-09,2025-12-16T00:11:00,1
+Royal Stay,288,Deluxe,6,223.01,True,2023-11-03,2025-10-12T12:47:31,3
+Paradise Hotel,507,Family,4,258.72,True,2024-07-12,2025-12-25T06:11:19,4
+Ocean View Hotel,707,Deluxe,6,389.72,False,2023-09-28,2025-07-17T15:06:18,3
+Lakeside Lodge,696,Single,6,420.7,False,2023-04-18,2025-07-21T12:12:35,5
+Royal Stay,879,Family,5,185.27,False,2024-12-27,2025-11-09T21:32:37,3
+City Central Inn,841,Deluxe,4,299.67,False,2024-06-19,2025-07-14T03:38:44,5
+Royal Stay,101,Single,4,474.87,False,2024-02-02,2025-09-12T19:20:14,1
+Sunrise Resort,980,Single,2,276.94,False,2023-01-16,2025-01-27T10:59:36,2
+Sunrise Resort,883,Single,2,224.48,True,2024-05-13,2025-04-19T12:37:32,2
+Golden Leaf Inn,968,Deluxe,2,319.74,True,2024-12-20,2025-09-25T18:27:31,4
+Paradise Hotel,514,Deluxe,1,316.65,False,2023-04-15,2025-11-01T13:24:19,1
+Lakeside Lodge,826,Suite,6,191.65,True,2024-08-12,2025-12-28T06:27:48,3
+Comfort Suites,441,Family,3,370.79,True,2023-01-09,2025-06-12T04:18:18,5
+Grand Palace,357,Family,3,124.54,True,2023-12-03,2025-02-04T01:56:16,4
+Paradise Hotel,705,Double,3,71.05,False,2023-02-04,2025-09-16T03:23:37,4
+Grand Palace,188,Single,3,91.05,False,2023-10-23,2025-09-24T00:06:35,5
+Paradise Hotel,241,Family,2,498.78,False,2024-05-10,2025-09-03T06:33:14,4
+Mountain Retreat,727,Deluxe,6,71.37,True,2023-08-14,2025-02-10T06:36:26,2
+Comfort Suites,294,Single,5,368.0,False,2024-11-14,2025-09-08T19:53:08,4
+Royal Stay,217,Suite,6,392.81,False,2023-12-16,2025-08-12T20:24:32,5
+Royal Stay,756,Family,1,143.62,True,2023-10-16,2025-11-28T16:08:04,1
+Comfort Suites,601,Family,5,490.32,False,2023-12-29,2025-10-31T20:08:48,1
+Mountain Retreat,176,Deluxe,3,80.51,False,2024-02-26,2025-11-29T15:13:02,1
+Paradise Hotel,967,Single,5,190.78,False,2024-10-27,2025-12-02T01:24:03,1
+Ocean View Hotel,806,Single,2,367.56,False,2023-06-25,2025-09-28T04:59:52,2
+Royal Stay,281,Family,1,163.87,False,2024-04-30,2025-05-14T10:32:39,2
+Sunrise Resort,818,Double,3,88.3,True,2024-08-20,2025-07-04T11:27:31,1
+Ocean View Hotel,633,Deluxe,5,458.39,True,2024-12-05,2025-07-20T18:17:50,4
+Lakeside Lodge,876,Deluxe,4,301.13,True,2024-01-30,2025-03-09T05:48:24,3
+Paradise Hotel,765,Family,3,89.97,False,2024-01-05,2025-08-19T04:29:56,3
+Lakeside Lodge,939,Double,5,380.68,False,2023-06-29,2025-10-29T12:51:45,5
+Golden Leaf Inn,847,Double,4,186.88,False,2024-06-05,2025-03-24T05:06:47,3
+Golden Leaf Inn,756,Single,4,154.8,False,2024-08-24,2025-07-02T19:35:41,1
+Mountain Retreat,248,Double,5,309.1,False,2023-01-24,2025-06-01T19:46:12,1
+Paradise Hotel,985,Suite,1,287.41,False,2023-05-24,2025-10-15T14:42:41,5
+Ocean View Hotel,597,Single,2,391.9,True,2024-03-11,2025-08-16T08:58:50,3
+Lakeside Lodge,576,Suite,2,399.29,False,2023-06-24,2025-09-27T03:21:41,4
+Ocean View Hotel,571,Deluxe,3,461.67,True,2023-09-17,2025-02-28T19:01:07,5
+City Central Inn,562,Family,6,170.49,False,2024-10-06,2025-12-10T09:33:35,1
+Sunrise Resort,984,Suite,4,251.22,True,2023-10-24,2025-09-18T15:22:31,3
+Grand Palace,135,Double,6,327.34,False,2023-08-16,2025-01-26T06:14:59,2
+Lakeside Lodge,976,Suite,3,259.37,False,2024-01-05,2025-11-19T14:51:27,4
+Comfort Suites,240,Single,5,141.32,True,2023-05-09,2025-07-09T09:11:14,5
+Ocean View Hotel,415,Single,3,234.99,True,2023-09-05,2025-02-09T01:47:34,1
+Lakeside Lodge,103,Double,1,337.37,False,2024-04-26,2025-02-26T09:58:53,4
+Lakeside Lodge,496,Suite,1,307.69,True,2023-04-24,2025-09-02T11:15:07,5
+Royal Stay,232,Family,4,425.34,False,2024-04-24,2025-02-15T00:37:14,4
+Sunrise Resort,989,Deluxe,1,390.86,True,2024-02-20,2025-05-07T17:08:39,2
+Golden Leaf Inn,126,Family,4,475.08,True,2024-05-26,2025-12-16T14:06:41,5
+Sunrise Resort,219,Deluxe,3,218.87,False,2023-11-23,2025-09-24T18:27:14,3
+Golden Leaf Inn,467,Family,5,319.7,False,2023-04-26,2025-05-11T19:42:37,2
+Golden Leaf Inn,950,Suite,1,82.61,True,2024-07-05,2025-04-22T03:12:54,4
+Sunrise Resort,695,Single,4,103.04,True,2024-01-13,2025-04-24T17:57:59,4
+Grand Palace,216,Single,6,330.25,False,2024-01-09,2025-08-04T00:06:36,5
+Royal Stay,863,Deluxe,1,493.22,False,2023-05-20,2025-03-02T23:46:44,4
+Royal Stay,815,Suite,6,364.36,False,2024-05-07,2025-10-11T07:55:19,4
+Sunrise Resort,938,Single,6,129.0,True,2023-10-02,2025-09-19T01:50:38,3
+Paradise Hotel,439,Family,3,495.57,True,2024-01-31,2025-04-11T21:48:51,3
+Mountain Retreat,767,Family,3,155.87,True,2023-02-21,2025-10-13T07:24:58,1
+Grand Palace,620,Family,3,361.29,True,2024-09-26,2025-01-30T05:39:53,3
+City Central Inn,930,Double,3,235.78,True,2024-06-16,2025-12-14T23:46:16,1
+Lakeside Lodge,157,Double,1,160.25,False,2023-12-04,2025-05-29T01:18:10,4
+Grand Palace,203,Suite,5,221.06,True,2024-06-14,2025-03-26T12:48:34,3
+Sunrise Resort,931,Family,4,142.69,True,2023-01-06,2025-01-08T20:28:47,3
+Ocean View Hotel,256,Suite,3,189.26,True,2024-06-08,2025-08-02T18:38:12,5
+Ocean View Hotel,784,Suite,4,454.56,False,2023-11-06,2025-04-09T23:26:26,5
+City Central Inn,552,Suite,3,357.98,False,2023-10-28,2025-03-18T10:43:23,3
+Sunrise Resort,512,Family,5,242.79,True,2023-03-24,2025-12-30T07:17:22,5
+Paradise Hotel,333,Family,5,494.38,False,2023-12-21,2025-06-28T16:53:21,1
+Paradise Hotel,343,Deluxe,2,118.05,False,2024-09-25,2025-07-24T06:10:26,4
+Lakeside Lodge,364,Deluxe,2,121.04,False,2023-08-03,2025-07-10T01:40:09,5
+Lakeside Lodge,123,Single,3,488.82,False,2024-05-28,2025-05-04T21:43:36,3
+Golden Leaf Inn,277,Suite,3,224.18,False,2023-09-30,2025-12-24T04:40:11,3
+Mountain Retreat,317,Single,4,239.21,True,2024-09-16,2025-07-10T21:38:17,2
+Lakeside Lodge,292,Family,2,362.29,True,2023-06-27,2025-03-18T12:58:36,3
+Ocean View Hotel,418,Suite,3,126.11,True,2024-11-25,2025-01-27T04:26:55,1
+Royal Stay,982,Family,2,128.67,False,2024-01-24,2025-08-06T09:37:15,3
+Golden Leaf Inn,990,Suite,3,434.26,False,2024-05-25,2025-04-05T19:57:07,2
+Comfort Suites,968,Deluxe,4,89.64,True,2023-06-18,2025-08-02T02:45:07,5
+Sunrise Resort,451,Family,6,258.46,True,2023-09-24,2025-08-26T02:21:48,2
+Ocean View Hotel,118,Deluxe,3,109.33,False,2024-12-19,2025-04-07T05:13:30,2
+City Central Inn,834,Family,4,229.67,False,2024-03-18,2025-12-22T06:09:29,4
+Sunrise Resort,493,Suite,5,220.26,False,2023-08-21,2025-06-23T19:11:52,5
+Mountain Retreat,152,Family,1,138.57,True,2023-01-30,2025-09-19T09:20:24,5
+Ocean View Hotel,248,Suite,2,270.95,True,2024-08-26,2025-11-20T16:28:26,3
+Mountain Retreat,688,Deluxe,1,356.93,True,2024-10-22,2025-02-18T08:54:37,1
+Mountain Retreat,324,Double,1,172.14,True,2024-10-02,2025-02-03T22:37:06,3
+Paradise Hotel,635,Family,4,274.09,True,2024-02-21,2025-04-15T04:30:03,1
+Royal Stay,447,Suite,2,418.31,False,2024-11-05,2025-11-18T01:00:42,4
+Paradise Hotel,533,Suite,3,310.64,True,2023-06-18,2025-10-28T15:50:07,2
+Sunrise Resort,462,Family,3,432.57,True,2024-02-28,2025-03-18T23:26:19,3
+Golden Leaf Inn,189,Deluxe,2,235.92,True,2024-09-25,2025-10-26T05:19:07,2
+Paradise Hotel,302,Deluxe,4,198.83,False,2023-12-15,2025-12-03T07:54:21,3
+Sunrise Resort,136,Family,5,115.2,False,2023-04-12,2025-11-11T03:08:39,3
+Comfort Suites,637,Family,2,73.79,False,2023-04-24,2025-01-21T22:06:49,5
+Sunrise Resort,828,Deluxe,4,118.24,True,2024-05-19,2025-01-19T01:49:40,2
+Sunrise Resort,276,Family,1,455.06,False,2023-05-28,2025-08-31T13:17:48,2
+Lakeside Lodge,780,Double,2,450.26,True,2024-05-03,2025-01-15T10:49:21,5
+Sunrise Resort,769,Double,4,156.78,False,2024-02-10,2025-04-30T14:34:47,5
+Mountain Retreat,672,Deluxe,3,378.12,False,2023-03-13,2025-12-17T04:04:18,2
+Grand Palace,461,Family,1,490.48,True,2023-02-20,2025-07-14T12:20:50,4
+City Central Inn,374,Double,1,498.5,True,2023-06-08,2025-06-24T22:43:32,2
+Comfort Suites,777,Single,3,320.59,False,2023-08-12,2025-07-04T06:26:55,5
+Sunrise Resort,952,Suite,4,284.94,True,2023-06-01,2025-03-28T22:55:40,4
+Golden Leaf Inn,401,Family,4,161.9,False,2024-04-15,2025-05-29T14:24:50,2
+Mountain Retreat,553,Family,2,92.72,True,2024-06-16,2025-07-21T04:49:25,1
+Lakeside Lodge,687,Deluxe,4,264.18,True,2024-05-03,2025-04-22T19:54:33,2
+Paradise Hotel,343,Family,4,401.96,False,2023-08-09,2025-08-12T22:41:21,3
+City Central Inn,842,Deluxe,1,281.92,False,2024-12-28,2025-01-12T04:05:29,1
+Paradise Hotel,149,Deluxe,6,239.34,True,2023-06-06,2025-10-02T22:18:17,4
+Ocean View Hotel,503,Single,1,251.92,False,2023-11-18,2025-11-24T10:47:16,3
+Sunrise Resort,369,Deluxe,1,353.32,False,2024-07-31,2025-11-16T06:01:19,1
+Golden Leaf Inn,187,Single,5,402.88,True,2023-02-22,2025-07-23T01:12:39,3
+Paradise Hotel,195,Deluxe,6,74.99,True,2024-08-12,2025-12-27T11:30:11,1
+Comfort Suites,210,Double,4,97.86,True,2024-04-02,2025-10-28T08:07:15,4
+Mountain Retreat,299,Suite,2,146.63,True,2023-08-30,2025-09-14T14:45:06,4
+Golden Leaf Inn,956,Double,2,368.24,True,2023-03-18,2025-02-13T11:46:57,4
+Ocean View Hotel,652,Double,3,142.17,True,2023-09-23,2025-05-06T04:06:17,3
+Royal Stay,478,Family,5,141.73,True,2023-02-25,2025-11-15T08:56:38,5
+Ocean View Hotel,221,Family,1,301.84,False,2023-08-22,2025-03-11T01:38:08,5
+City Central Inn,381,Single,4,149.4,False,2024-07-05,2025-03-01T21:56:52,3
+Comfort Suites,646,Deluxe,1,181.25,False,2023-01-11,2025-02-19T14:32:28,4
+Royal Stay,341,Double,6,171.25,True,2023-09-02,2025-09-16T04:32:53,2
+Lakeside Lodge,391,Single,2,108.75,True,2024-04-28,2025-11-26T07:04:05,5
+City Central Inn,923,Suite,3,349.05,False,2023-09-05,2025-07-25T17:23:03,2
+Comfort Suites,127,Family,1,263.65,True,2024-10-05,2025-10-03T02:51:18,4
+City Central Inn,457,Deluxe,3,333.36,True,2023-03-27,2025-04-12T02:09:59,1
+Mountain Retreat,898,Deluxe,5,165.78,False,2023-02-15,2025-02-16T14:27:39,2
+City Central Inn,448,Family,6,301.85,False,2024-06-09,2025-12-12T03:41:36,2
+Paradise Hotel,826,Deluxe,4,79.63,False,2023-04-03,2025-03-30T08:48:20,5
+Comfort Suites,382,Family,3,473.18,True,2023-05-29,2025-08-08T23:57:07,3
+City Central Inn,944,Suite,3,480.83,True,2023-03-28,2025-12-12T05:52:28,1
+Royal Stay,402,Single,6,441.99,True,2023-07-24,2025-05-31T17:03:13,1
+Sunrise Resort,863,Family,1,156.52,True,2024-09-05,2025-10-30T02:41:09,5
+Comfort Suites,714,Single,6,434.72,True,2023-09-10,2025-08-21T18:33:12,5
+Mountain Retreat,496,Single,6,169.06,False,2024-04-06,2025-05-18T04:03:24,5
+Ocean View Hotel,565,Deluxe,5,117.1,True,2023-03-29,2025-05-12T09:41:22,2
+Mountain Retreat,203,Deluxe,1,162.07,True,2024-04-10,2025-04-29T12:35:14,5
+Mountain Retreat,726,Family,6,199.2,True,2023-07-17,2025-03-12T12:03:39,5
+Lakeside Lodge,274,Deluxe,3,208.81,True,2023-02-14,2025-05-07T15:18:49,4
+City Central Inn,399,Deluxe,6,243.66,True,2023-03-25,2025-05-02T02:57:51,5
+Lakeside Lodge,441,Single,4,398.42,True,2024-05-09,2025-09-28T12:07:08,3
+Golden Leaf Inn,523,Deluxe,1,318.4,False,2024-09-05,2025-01-13T10:43:42,3
+Sunrise Resort,574,Family,5,423.2,True,2023-07-08,2025-12-06T02:59:16,2
+Ocean View Hotel,832,Double,6,334.09,True,2024-01-04,2025-08-07T07:19:53,5
+Comfort Suites,609,Deluxe,4,96.81,True,2023-02-26,2025-07-25T03:13:37,3
+Lakeside Lodge,458,Deluxe,3,465.54,False,2024-05-14,2025-01-16T09:52:53,2
+Golden Leaf Inn,676,Deluxe,5,308.01,True,2024-09-24,2025-12-16T02:29:55,3
+City Central Inn,842,Double,4,485.22,False,2024-09-03,2025-12-17T01:27:55,4
+Lakeside Lodge,874,Family,3,238.36,False,2023-08-03,2025-08-24T15:26:54,3
+Royal Stay,506,Suite,6,182.01,False,2024-11-27,2025-01-12T20:05:54,4
+Comfort Suites,467,Deluxe,2,446.79,False,2024-03-23,2025-04-11T17:47:57,4
+Golden Leaf Inn,420,Single,5,147.33,True,2024-11-13,2025-12-23T01:08:52,3
+Comfort Suites,633,Single,6,203.65,True,2023-02-12,2025-08-24T09:33:39,2
+Sunrise Resort,369,Double,4,72.81,True,2024-12-03,2025-11-11T20:17:57,5
+Sunrise Resort,410,Deluxe,2,369.71,False,2024-10-29,2025-08-13T10:56:57,1
+Golden Leaf Inn,565,Suite,4,205.78,True,2024-05-13,2025-02-17T15:43:37,4
+Comfort Suites,513,Single,4,498.25,False,2024-10-06,2025-03-10T07:47:42,5
+Paradise Hotel,841,Single,5,153.43,False,2024-05-21,2025-10-01T21:11:32,1
+Royal Stay,366,Double,5,479.62,True,2023-12-10,2025-09-24T15:02:02,4
+Paradise Hotel,602,Family,6,316.24,True,2024-09-18,2025-12-19T05:37:01,4
+Mountain Retreat,194,Suite,2,111.48,True,2024-08-19,2025-08-12T15:18:41,1
+Sunrise Resort,290,Suite,2,233.95,False,2023-10-22,2025-08-25T12:10:05,5
+Comfort Suites,500,Single,6,122.99,False,2024-10-01,2025-06-12T17:52:18,3
+Comfort Suites,844,Family,2,148.26,True,2023-08-01,2025-02-21T00:38:39,1
+Paradise Hotel,900,Double,6,265.31,True,2023-09-01,2025-06-11T12:28:39,3
+Golden Leaf Inn,226,Deluxe,5,187.46,True,2024-01-23,2025-02-14T01:36:30,5
+Grand Palace,343,Family,2,430.8,True,2023-12-27,2025-05-12T01:00:21,4
+Sunrise Resort,278,Suite,1,247.9,True,2024-07-05,2025-01-09T11:56:47,1
+Comfort Suites,748,Deluxe,6,100.07,False,2024-04-18,2025-09-20T16:28:00,1
+Golden Leaf Inn,625,Single,4,57.06,True,2024-06-09,2025-04-13T13:32:02,2
+Mountain Retreat,995,Single,1,256.95,True,2024-08-03,2025-01-29T01:57:13,3
+Royal Stay,902,Single,2,418.05,True,2023-07-08,2025-12-08T00:12:16,2
+Grand Palace,220,Single,2,122.04,False,2023-08-09,2025-10-11T14:59:31,5
+Lakeside Lodge,983,Family,3,123.17,False,2023-10-23,2025-03-24T02:49:52,3
+Comfort Suites,402,Family,5,337.73,False,2023-06-15,2025-10-20T17:48:04,1
+Paradise Hotel,784,Double,5,414.39,False,2023-10-26,2025-11-06T05:15:37,2
+Comfort Suites,432,Family,4,406.71,True,2024-04-28,2025-09-07T22:09:27,3
+Comfort Suites,922,Deluxe,3,165.63,True,2023-02-27,2025-12-10T18:43:08,5
+Mountain Retreat,254,Single,1,270.55,True,2024-12-05,2025-12-12T21:44:04,5
+Paradise Hotel,659,Deluxe,4,133.1,False,2024-11-26,2025-01-01T22:15:09,2
+Paradise Hotel,256,Double,2,302.56,False,2023-03-27,2025-05-10T16:44:25,3
+Comfort Suites,783,Deluxe,4,406.06,False,2024-03-22,2025-05-27T16:30:19,2
+Lakeside Lodge,625,Deluxe,4,485.95,False,2023-10-21,2025-04-23T01:41:34,4
+Paradise Hotel,758,Double,4,59.79,True,2023-11-02,2025-03-12T08:34:53,1
+Lakeside Lodge,831,Double,5,494.25,False,2024-04-12,2025-05-26T04:56:22,1
+Comfort Suites,653,Deluxe,2,345.02,False,2024-02-11,2025-06-15T22:53:22,1
+Grand Palace,408,Deluxe,6,142.44,True,2024-09-13,2025-04-08T22:17:29,4
+Comfort Suites,694,Single,3,152.28,False,2024-10-06,2025-01-22T03:34:11,1
+Royal Stay,379,Family,6,446.8,False,2023-01-20,2025-03-22T22:13:59,1
+Grand Palace,302,Single,6,454.03,True,2024-11-24,2025-05-26T10:52:05,2
+Royal Stay,156,Deluxe,4,167.78,False,2024-03-22,2025-09-08T00:33:39,4
+Lakeside Lodge,155,Double,3,171.45,True,2023-11-20,2025-08-03T07:33:10,5
+Royal Stay,791,Suite,6,411.86,True,2023-08-05,2025-02-26T20:03:10,1
+City Central Inn,969,Family,2,149.53,False,2023-10-24,2025-11-12T10:59:45,3
+Paradise Hotel,736,Deluxe,3,409.42,True,2024-05-16,2025-07-04T19:26:46,2
+Lakeside Lodge,964,Family,4,273.27,True,2023-08-03,2025-06-15T03:55:22,3
+City Central Inn,952,Deluxe,2,136.19,True,2024-12-09,2025-04-06T22:23:49,3
+Mountain Retreat,909,Family,2,179.23,False,2024-02-12,2025-04-18T08:50:24,1
+Paradise Hotel,700,Single,6,447.15,True,2024-03-02,2025-04-23T17:51:27,5
+Golden Leaf Inn,440,Single,2,441.98,True,2024-10-11,2025-05-30T20:14:20,5
+Mountain Retreat,878,Deluxe,4,62.62,False,2023-06-04,2025-08-03T15:33:37,4
+Mountain Retreat,422,Single,6,182.4,True,2024-01-26,2025-07-24T12:05:10,1
+City Central Inn,833,Single,5,441.27,False,2024-01-16,2025-03-19T15:16:17,2
+Ocean View Hotel,580,Family,5,468.95,True,2024-11-27,2025-07-13T17:18:42,1
+Paradise Hotel,914,Deluxe,6,197.31,True,2024-07-05,2025-03-14T10:50:11,2
+Comfort Suites,437,Double,6,474.33,True,2024-10-27,2025-09-20T00:54:24,3
+Mountain Retreat,902,Deluxe,4,155.49,True,2024-04-20,2025-05-13T23:59:48,1
+Golden Leaf Inn,829,Double,5,198.26,False,2023-08-16,2025-11-15T14:38:20,5
+Mountain Retreat,700,Family,4,297.93,True,2024-05-26,2025-09-22T12:10:27,1
+Lakeside Lodge,304,Double,1,67.12,True,2023-11-20,2025-11-28T22:21:44,3
+Royal Stay,655,Single,5,469.89,True,2024-10-04,2025-03-25T06:32:14,1
+Grand Palace,773,Deluxe,2,192.59,True,2024-02-06,2025-04-22T22:47:19,4
+Royal Stay,623,Double,1,113.91,True,2023-01-10,2025-08-28T05:32:08,4
+Sunrise Resort,743,Family,1,146.44,True,2023-08-22,2025-11-16T04:58:19,5
+Royal Stay,612,Deluxe,4,429.53,True,2024-06-24,2025-09-24T17:45:53,4
+Paradise Hotel,421,Family,2,443.51,True,2024-09-19,2025-09-07T22:17:35,5
+Mountain Retreat,931,Family,5,304.9,False,2023-03-29,2025-09-29T00:05:19,1
+Paradise Hotel,305,Double,1,211.71,False,2023-01-11,2025-10-09T16:58:29,4
+Grand Palace,134,Family,2,65.85,False,2023-09-25,2025-11-19T07:59:19,4
+Sunrise Resort,954,Double,2,355.97,False,2023-07-23,2025-07-20T14:21:05,1
+Lakeside Lodge,473,Suite,3,440.47,True,2023-02-22,2025-04-27T16:51:23,1
+Ocean View Hotel,537,Deluxe,1,216.92,False,2023-09-01,2025-07-25T04:27:55,5
+Sunrise Resort,240,Family,4,468.96,True,2024-04-07,2025-04-02T11:23:47,4
+Royal Stay,807,Double,5,415.6,False,2023-12-21,2025-10-28T19:09:56,1
+Paradise Hotel,597,Double,1,308.79,False,2024-12-01,2025-12-24T18:09:25,4
+City Central Inn,618,Deluxe,6,163.52,False,2023-12-06,2025-03-23T02:40:54,5
+Paradise Hotel,324,Family,2,190.97,False,2024-03-15,2025-07-10T10:19:00,1
+Grand Palace,908,Double,3,355.48,True,2024-04-28,2025-10-16T08:59:29,4
+Ocean View Hotel,226,Suite,5,76.35,False,2023-09-24,2025-02-06T19:38:39,4
+Comfort Suites,163,Family,1,455.09,False,2023-12-07,2025-09-11T13:40:34,2
+Grand Palace,339,Family,1,359.76,True,2024-11-10,2025-03-28T00:24:31,3
+Royal Stay,502,Suite,5,254.08,True,2023-08-30,2025-01-27T23:09:17,3
+Ocean View Hotel,811,Suite,2,379.11,True,2023-08-07,2025-06-26T18:59:39,3
+Sunrise Resort,288,Suite,4,448.23,True,2023-02-21,2025-05-17T20:12:16,1
+Ocean View Hotel,188,Family,1,144.98,False,2024-01-08,2025-05-18T19:03:08,5
+Ocean View Hotel,808,Deluxe,3,429.32,False,2023-05-24,2025-06-07T18:25:21,1
+City Central Inn,468,Double,2,289.88,True,2023-12-05,2025-07-16T04:43:39,3
+Royal Stay,343,Single,5,107.58,False,2023-09-19,2025-08-26T11:55:11,4
+Sunrise Resort,670,Suite,4,485.64,False,2024-03-01,2025-02-18T03:55:24,4
+Mountain Retreat,284,Family,1,71.71,False,2023-09-13,2025-09-06T03:39:46,5
+City Central Inn,320,Single,4,243.87,True,2023-02-19,2025-09-26T12:21:04,4
+Ocean View Hotel,143,Double,4,479.05,False,2023-08-23,2025-07-12T13:02:14,3
+Mountain Retreat,725,Deluxe,1,215.91,True,2024-08-15,2025-04-08T12:56:12,1
+Golden Leaf Inn,637,Suite,4,421.24,True,2023-02-15,2025-09-01T11:42:06,1
+Mountain Retreat,997,Single,6,495.92,True,2023-10-01,2025-03-18T20:21:56,2
+Sunrise Resort,197,Double,6,372.65,False,2023-06-13,2025-11-07T17:58:44,1
+Royal Stay,899,Single,4,188.2,False,2023-02-03,2025-12-30T05:42:42,2
+Paradise Hotel,864,Suite,1,291.46,True,2023-02-10,2025-09-25T04:47:24,2
+Lakeside Lodge,129,Single,2,418.22,True,2024-04-21,2025-03-18T19:15:10,4
+Sunrise Resort,620,Double,5,351.21,False,2024-02-29,2025-09-24T04:34:47,3
+Lakeside Lodge,346,Double,6,475.44,True,2023-12-16,2025-01-20T18:10:31,1
+Mountain Retreat,962,Deluxe,6,73.66,False,2024-03-16,2025-11-09T06:45:17,2
+Grand Palace,138,Single,1,435.82,True,2023-09-17,2025-08-26T14:58:57,2
+Sunrise Resort,890,Deluxe,1,355.96,True,2024-09-25,2025-05-20T05:15:18,4
+Comfort Suites,102,Double,4,74.6,False,2024-04-19,2025-01-01T01:50:13,3
+Ocean View Hotel,321,Single,3,88.38,False,2024-07-16,2025-08-07T21:43:43,4
+Ocean View Hotel,661,Double,6,325.94,False,2024-02-02,2025-01-02T18:53:43,3
+Sunrise Resort,377,Double,1,383.01,False,2023-01-06,2025-07-27T10:46:13,5
+Grand Palace,962,Family,5,248.16,False,2023-04-08,2025-01-07T07:12:34,3
+Grand Palace,603,Family,6,391.94,False,2023-10-12,2025-08-27T19:32:00,5
+Paradise Hotel,832,Single,3,170.54,False,2024-04-05,2025-08-31T06:07:06,2
+Paradise Hotel,790,Double,2,262.19,False,2023-04-05,2025-11-21T16:36:00,1
+Mountain Retreat,621,Deluxe,3,66.41,True,2023-01-08,2025-11-29T20:05:37,3
+City Central Inn,808,Family,2,243.72,False,2023-05-27,2025-07-31T20:51:11,4
+Grand Palace,230,Family,6,350.79,False,2024-01-19,2025-01-12T08:13:43,4
+Mountain Retreat,271,Deluxe,1,420.0,True,2024-09-15,2025-11-23T07:27:11,1
+Sunrise Resort,760,Double,2,356.31,False,2024-11-03,2025-06-29T13:07:50,2
+Golden Leaf Inn,849,Double,4,400.15,True,2023-01-05,2025-11-23T18:43:59,5
+Royal Stay,872,Single,1,300.38,True,2023-09-26,2025-08-25T04:42:02,4
+Comfort Suites,263,Single,2,419.67,True,2023-01-12,2025-04-03T04:19:40,2
+Paradise Hotel,903,Family,3,199.6,True,2024-12-29,2025-11-30T15:41:19,2
+Golden Leaf Inn,622,Double,5,152.57,True,2024-10-10,2025-06-18T00:43:50,2
+Golden Leaf Inn,955,Suite,3,439.92,True,2024-12-31,2025-08-31T01:21:03,3
+Ocean View Hotel,726,Double,5,148.82,True,2023-05-24,2025-08-12T22:43:45,4
+Lakeside Lodge,423,Deluxe,6,373.08,False,2024-05-11,2025-09-22T20:59:24,1
+Comfort Suites,119,Double,6,464.24,True,2023-07-26,2025-09-18T21:13:46,3
+Sunrise Resort,789,Family,2,431.14,True,2024-06-22,2025-01-21T23:02:10,4
+Mountain Retreat,366,Suite,2,363.06,True,2023-07-25,2025-05-14T04:49:29,5
+Paradise Hotel,836,Single,3,54.77,True,2023-03-06,2025-03-10T01:07:36,5
+Lakeside Lodge,148,Single,1,478.23,True,2023-04-30,2025-03-29T06:25:59,5
+Comfort Suites,521,Double,1,359.15,False,2023-08-29,2025-02-03T21:02:08,3
+Sunrise Resort,741,Suite,5,245.22,False,2024-04-29,2025-05-14T06:36:03,1
+Grand Palace,469,Single,5,157.5,True,2023-06-23,2025-07-24T19:12:22,3
+Lakeside Lodge,603,Family,5,255.54,True,2024-06-09,2025-12-19T13:14:20,3
+Royal Stay,570,Deluxe,3,361.29,False,2024-03-16,2025-03-05T03:41:24,2
+Royal Stay,943,Single,4,233.97,False,2023-11-13,2025-02-25T23:38:37,1
+Grand Palace,675,Double,3,167.56,False,2024-01-16,2025-06-16T13:19:22,4
+Sunrise Resort,388,Family,5,172.86,False,2023-03-21,2025-12-14T16:48:37,3
+Lakeside Lodge,192,Family,3,396.6,True,2024-09-26,2025-02-13T12:29:03,2
+City Central Inn,705,Suite,6,494.8,False,2023-12-09,2025-07-09T12:40:26,3
+Sunrise Resort,587,Family,6,206.34,False,2023-01-21,2025-02-21T05:33:28,3
+City Central Inn,684,Family,6,364.59,False,2023-06-03,2025-03-15T07:45:30,2
+Sunrise Resort,272,Deluxe,4,251.74,True,2024-03-25,2025-10-04T07:30:34,3
+Mountain Retreat,699,Deluxe,6,155.69,False,2023-09-23,2025-05-18T11:35:37,2
+City Central Inn,253,Deluxe,2,486.75,False,2024-04-18,2025-11-20T06:31:26,3
+Grand Palace,117,Single,1,383.81,True,2023-08-07,2025-05-08T19:14:58,2
+Mountain Retreat,519,Suite,5,273.74,False,2024-04-11,2025-09-27T03:07:52,3
+Paradise Hotel,653,Double,2,414.79,False,2023-04-05,2025-03-31T09:39:32,1
+Comfort Suites,965,Suite,4,428.58,True,2024-05-27,2025-09-01T05:32:49,3
+Royal Stay,638,Family,6,257.75,False,2023-04-26,2025-03-25T10:14:43,1
+Lakeside Lodge,446,Single,5,141.9,False,2023-06-09,2025-03-30T15:49:02,2
+Sunrise Resort,399,Suite,5,163.16,False,2023-11-15,2025-09-08T05:09:33,4
+Lakeside Lodge,777,Deluxe,2,440.94,False,2024-02-20,2025-06-01T17:35:58,2
+Sunrise Resort,840,Single,3,265.48,False,2024-05-15,2025-12-23T17:35:15,3
+Grand Palace,453,Suite,5,94.5,True,2023-08-14,2025-03-26T02:53:47,1
+Royal Stay,886,Deluxe,4,117.74,True,2024-11-17,2025-04-20T08:25:01,4
+Sunrise Resort,600,Single,5,91.65,False,2024-06-26,2025-04-17T10:37:11,4
+Comfort Suites,241,Deluxe,5,495.11,True,2023-05-19,2025-05-27T23:21:20,2
+Paradise Hotel,140,Deluxe,6,74.97,True,2023-10-31,2025-03-30T01:50:56,1
+Ocean View Hotel,580,Suite,1,60.85,True,2024-10-19,2025-11-14T07:27:39,5
+Lakeside Lodge,801,Family,2,397.27,False,2024-12-27,2025-08-15T18:33:02,1
+Sunrise Resort,639,Family,2,65.74,True,2024-01-29,2025-11-06T23:11:26,4
+Mountain Retreat,771,Deluxe,2,425.87,False,2024-04-25,2025-08-27T15:58:49,2
+Ocean View Hotel,478,Single,6,212.7,True,2023-01-21,2025-12-17T21:31:31,4
+Lakeside Lodge,412,Deluxe,1,377.61,False,2023-04-18,2025-06-13T21:38:22,2
+Comfort Suites,791,Family,3,310.69,False,2023-04-13,2025-01-03T23:47:37,4
+Lakeside Lodge,795,Single,1,197.79,True,2024-07-05,2025-03-26T04:44:11,2
+Ocean View Hotel,695,Deluxe,3,156.75,False,2024-08-16,2025-06-07T00:07:36,2
+Mountain Retreat,509,Suite,4,364.62,True,2024-01-03,2025-02-19T08:05:44,5
+Royal Stay,268,Deluxe,4,352.59,False,2023-05-14,2025-12-30T18:53:52,1
+Paradise Hotel,752,Deluxe,3,283.94,False,2023-08-18,2025-08-23T08:08:48,5
+City Central Inn,293,Single,3,165.98,True,2023-06-09,2025-11-26T21:41:37,5
+Comfort Suites,804,Deluxe,2,292.36,True,2024-09-27,2025-06-15T01:16:02,4
+Lakeside Lodge,373,Deluxe,4,425.23,False,2023-11-18,2025-12-15T19:36:47,1
+Grand Palace,257,Single,1,169.48,False,2023-12-17,2025-05-23T00:59:37,4
+Sunrise Resort,640,Deluxe,6,445.16,False,2024-06-09,2025-01-16T09:55:27,5
+Golden Leaf Inn,975,Double,1,426.05,False,2024-05-04,2025-08-19T15:34:20,5
+Comfort Suites,995,Double,2,144.78,False,2023-01-31,2025-04-26T06:20:54,4
+Comfort Suites,532,Single,6,311.63,False,2024-12-25,2025-06-23T04:41:17,2
+Paradise Hotel,384,Family,3,237.03,False,2024-10-31,2025-11-13T07:14:30,3
+Ocean View Hotel,274,Single,3,59.09,True,2024-12-25,2025-07-01T09:52:36,5
+Grand Palace,446,Deluxe,1,439.32,False,2023-12-17,2025-10-07T21:15:56,3
+Sunrise Resort,732,Single,1,261.58,False,2023-10-05,2025-11-08T09:57:17,1
+Golden Leaf Inn,805,Single,5,271.0,True,2024-01-20,2025-04-01T11:10:08,2
+Lakeside Lodge,142,Single,6,367.64,False,2024-01-17,2025-03-18T19:16:34,4
+Mountain Retreat,438,Single,4,70.11,True,2023-04-16,2025-04-08T20:13:23,4
+Ocean View Hotel,239,Double,3,321.22,False,2023-07-11,2025-10-04T01:42:46,2
+Royal Stay,672,Double,1,371.39,False,2023-04-29,2025-09-12T07:41:43,4
+Mountain Retreat,760,Suite,5,488.5,True,2023-04-22,2025-02-15T04:49:48,5
+Royal Stay,214,Double,3,269.66,False,2023-02-04,2025-05-25T10:01:54,3
+Mountain Retreat,323,Double,4,464.18,True,2024-04-21,2025-03-06T21:18:38,1
+Lakeside Lodge,974,Suite,6,438.79,False,2023-01-09,2025-12-10T06:53:00,5
+Royal Stay,899,Deluxe,2,50.52,False,2023-02-23,2025-04-09T05:12:28,4
+Paradise Hotel,410,Family,2,412.92,True,2023-05-14,2025-12-23T09:37:53,2
+Sunrise Resort,579,Double,6,345.58,False,2024-04-10,2025-06-10T04:20:45,3
+Grand Palace,709,Suite,2,197.74,False,2024-12-09,2025-02-12T02:07:14,4
+City Central Inn,825,Family,5,189.53,False,2023-10-01,2025-11-20T19:05:36,4
+Royal Stay,442,Single,3,429.32,False,2023-06-07,2025-05-29T11:49:57,3
+Comfort Suites,321,Suite,1,475.14,False,2024-03-01,2025-03-24T00:20:26,5
+Paradise Hotel,260,Single,1,133.13,True,2024-04-28,2025-07-22T09:49:07,5
+Sunrise Resort,748,Family,3,121.09,False,2024-07-29,2025-03-29T23:38:39,1
+Comfort Suites,470,Deluxe,5,377.63,True,2023-12-06,2025-07-13T18:13:02,5
+Grand Palace,475,Family,2,404.02,False,2023-03-26,2025-07-19T11:29:02,2
+Golden Leaf Inn,677,Single,4,294.96,False,2024-06-10,2025-12-10T20:33:00,2
+Golden Leaf Inn,112,Deluxe,2,339.58,True,2024-03-22,2025-04-08T14:41:41,1
+Ocean View Hotel,660,Single,3,321.86,True,2023-05-26,2025-12-05T11:38:22,1
+Golden Leaf Inn,703,Single,3,110.45,False,2023-09-22,2025-05-31T21:40:23,1
+Paradise Hotel,736,Single,3,390.91,False,2024-10-04,2025-07-07T14:15:29,4
+Sunrise Resort,511,Family,1,490.08,True,2023-10-31,2025-06-24T15:10:19,1
+Grand Palace,500,Family,1,485.52,True,2023-02-17,2025-09-04T01:32:19,5
+Golden Leaf Inn,352,Family,4,446.92,False,2024-07-05,2025-08-22T01:23:37,1
+Paradise Hotel,422,Suite,2,348.83,False,2024-12-08,2025-05-11T12:05:56,5
+Comfort Suites,320,Single,5,159.99,True,2024-11-18,2025-12-23T05:02:24,4
+Golden Leaf Inn,511,Suite,4,123.71,True,2024-12-17,2025-05-02T08:29:23,1
+Grand Palace,370,Single,4,468.81,False,2023-03-04,2025-06-18T07:35:56,1
+Royal Stay,904,Deluxe,1,235.22,False,2024-08-08,2025-09-30T13:53:27,1
+Ocean View Hotel,421,Family,5,201.96,False,2023-05-25,2025-09-29T11:09:06,4
+Golden Leaf Inn,533,Family,3,142.17,False,2024-08-25,2025-05-03T07:41:18,3
+City Central Inn,699,Family,6,236.92,False,2024-11-08,2025-04-18T04:35:49,4
+Lakeside Lodge,965,Double,3,488.07,False,2024-01-04,2025-11-16T23:09:28,2
+Lakeside Lodge,838,Suite,1,94.84,False,2024-10-09,2025-10-30T23:34:35,2
+Golden Leaf Inn,583,Suite,1,287.16,False,2023-02-18,2025-09-30T19:38:35,2
+Sunrise Resort,403,Family,2,144.83,True,2023-06-19,2025-05-30T16:49:29,2
+Grand Palace,793,Single,2,168.77,False,2024-05-21,2025-10-23T07:51:35,1
+Golden Leaf Inn,827,Family,1,148.24,False,2023-06-20,2025-10-29T04:57:05,5
+Lakeside Lodge,875,Single,2,474.64,False,2023-05-30,2025-12-27T20:17:31,3
+Lakeside Lodge,937,Family,5,74.44,True,2023-08-04,2025-11-17T02:59:24,5
+Lakeside Lodge,712,Suite,1,75.17,True,2023-08-02,2025-09-24T06:09:10,4
+Paradise Hotel,889,Single,2,132.6,True,2024-08-14,2025-02-09T22:45:33,4
+Paradise Hotel,849,Single,1,255.72,True,2023-05-13,2025-10-19T04:11:41,1
+Comfort Suites,113,Double,4,447.43,True,2023-06-01,2025-02-15T21:19:10,5
+Mountain Retreat,512,Family,5,71.52,False,2024-05-16,2025-10-08T12:17:47,2
+Lakeside Lodge,368,Deluxe,5,458.52,False,2024-05-19,2025-04-30T08:57:23,5
+City Central Inn,174,Double,5,422.4,True,2023-02-18,2025-08-26T22:15:18,2
+Ocean View Hotel,521,Single,1,499.21,False,2024-11-25,2025-12-03T05:34:55,5
+Paradise Hotel,539,Single,4,348.44,False,2024-07-31,2025-02-12T12:54:52,4
+Lakeside Lodge,125,Suite,1,493.98,False,2024-12-26,2025-02-09T20:31:23,1
+Grand Palace,252,Family,4,120.55,False,2024-05-12,2025-07-03T22:46:31,4
+Grand Palace,657,Suite,1,142.39,False,2023-03-23,2025-03-31T16:24:14,3
+Golden Leaf Inn,955,Double,4,331.08,False,2024-07-29,2025-09-15T19:31:54,5
+Paradise Hotel,820,Suite,2,105.0,False,2024-11-25,2025-05-24T03:06:39,4
+Royal Stay,476,Single,4,449.27,False,2023-12-06,2025-03-20T18:07:31,4
+Grand Palace,910,Suite,6,112.82,True,2024-11-29,2025-05-22T21:32:22,5
+Comfort Suites,307,Double,4,429.21,False,2024-12-08,2025-06-26T23:14:00,3
+Grand Palace,713,Deluxe,6,476.22,False,2023-03-21,2025-07-07T01:59:40,5
+Golden Leaf Inn,508,Single,1,136.29,False,2023-09-20,2025-06-21T17:03:55,2
+Grand Palace,440,Single,1,64.49,False,2023-10-25,2025-03-09T04:18:35,5
+Comfort Suites,931,Suite,6,375.09,True,2023-05-22,2025-03-20T19:37:23,3
+Golden Leaf Inn,813,Family,4,105.23,False,2023-04-28,2025-11-10T07:11:32,4
+Sunrise Resort,614,Deluxe,4,61.55,True,2024-02-10,2025-05-08T14:53:34,1
+Lakeside Lodge,219,Family,3,134.12,True,2023-09-21,2025-09-02T11:53:19,2
+Grand Palace,478,Double,3,384.17,True,2024-06-14,2025-11-12T10:10:07,1
+Grand Palace,202,Double,4,428.6,True,2024-08-03,2025-10-21T15:17:33,1
+Comfort Suites,854,Suite,5,379.08,False,2023-02-03,2025-02-03T06:42:54,1
+Mountain Retreat,386,Single,4,386.77,False,2023-03-10,2025-04-03T20:30:06,1
+Grand Palace,188,Family,4,224.35,False,2023-07-16,2025-10-21T07:55:01,4
+Paradise Hotel,747,Suite,3,336.86,True,2024-12-14,2025-03-28T18:14:11,4
+Royal Stay,309,Single,4,292.48,False,2023-04-03,2025-07-02T16:51:16,3
+Lakeside Lodge,659,Deluxe,1,92.85,True,2024-09-11,2025-02-16T00:37:16,4
+Lakeside Lodge,646,Family,6,122.9,False,2023-12-09,2025-11-30T07:21:40,5
+Grand Palace,735,Suite,4,451.16,True,2024-02-06,2025-09-24T01:36:27,4
+Mountain Retreat,206,Family,5,345.62,False,2023-08-15,2025-12-17T00:32:11,3
+Lakeside Lodge,161,Family,4,149.2,True,2023-12-23,2025-07-20T15:43:56,4
+Paradise Hotel,847,Single,3,381.43,False,2023-03-14,2025-08-15T07:10:15,4
+Comfort Suites,823,Family,2,366.92,False,2023-04-30,2025-02-19T22:34:20,4
+Comfort Suites,552,Double,1,157.81,True,2024-05-26,2025-09-27T16:25:32,5
+Royal Stay,903,Family,3,387.84,True,2023-10-25,2025-01-10T18:38:37,5
+Mountain Retreat,273,Suite,3,125.72,False,2024-02-27,2025-06-28T09:15:20,1
+Comfort Suites,595,Family,2,156.41,True,2024-01-09,2025-02-16T15:49:59,1
+Golden Leaf Inn,180,Family,2,448.15,False,2023-12-08,2025-08-22T00:26:24,5
+City Central Inn,792,Suite,6,240.6,False,2023-09-24,2025-03-20T15:08:05,2
+Golden Leaf Inn,110,Single,4,326.85,True,2024-02-04,2025-08-20T16:42:57,4
+Lakeside Lodge,596,Double,3,245.77,True,2024-11-01,2025-04-16T05:21:25,1
+Mountain Retreat,117,Double,1,202.47,True,2023-07-30,2025-12-21T18:58:26,1
+Golden Leaf Inn,250,Single,1,184.37,True,2024-03-25,2025-10-28T11:28:53,4
+Grand Palace,177,Deluxe,2,323.97,True,2024-10-31,2025-10-15T01:19:33,3
+Royal Stay,513,Single,2,307.49,False,2023-02-01,2025-04-21T22:50:12,5
+Mountain Retreat,224,Double,5,118.44,True,2024-10-13,2025-06-21T16:12:02,5
+Golden Leaf Inn,673,Deluxe,2,388.47,True,2024-02-25,2025-06-14T00:08:27,4
+Comfort Suites,599,Single,4,309.41,False,2023-10-17,2025-04-20T02:18:11,5
+Golden Leaf Inn,977,Suite,5,81.2,False,2023-02-12,2025-04-04T00:14:02,3
+Paradise Hotel,857,Double,6,126.99,True,2023-10-19,2025-05-30T05:42:25,3
+City Central Inn,288,Suite,5,368.11,True,2024-10-21,2025-09-23T14:19:35,3
+Golden Leaf Inn,823,Double,2,322.19,False,2023-04-04,2025-04-18T08:09:31,2
+Mountain Retreat,286,Family,3,177.54,False,2023-01-23,2025-01-06T04:03:42,5
+Mountain Retreat,695,Deluxe,3,312.94,True,2023-09-08,2025-07-22T14:11:57,3
+Royal Stay,486,Deluxe,5,279.22,True,2024-03-04,2025-02-25T21:39:40,2
+Lakeside Lodge,976,Family,1,190.51,False,2023-05-06,2025-07-10T08:20:05,5
+Lakeside Lodge,820,Family,4,468.46,True,2023-01-17,2025-11-15T12:15:37,1
+Paradise Hotel,147,Double,2,136.63,False,2023-09-16,2025-06-01T10:58:40,4
+Lakeside Lodge,242,Double,2,77.19,False,2024-06-20,2025-06-23T15:18:44,5
+City Central Inn,732,Single,1,94.03,False,2024-08-14,2025-08-31T21:34:48,5
+Golden Leaf Inn,527,Family,4,116.88,False,2024-12-14,2025-05-02T18:08:51,2
+Golden Leaf Inn,115,Deluxe,2,166.58,True,2023-10-13,2025-10-19T23:21:44,1
+Lakeside Lodge,414,Family,2,167.41,True,2024-03-08,2025-08-13T15:53:02,3
+Grand Palace,226,Family,5,188.53,False,2024-09-15,2025-01-15T07:05:24,3
+Grand Palace,298,Single,6,68.66,False,2024-02-18,2025-04-13T16:19:30,3
+Sunrise Resort,209,Double,3,203.51,False,2024-11-23,2025-04-28T04:00:32,5
+Royal Stay,252,Double,4,245.33,False,2023-07-02,2025-12-24T02:48:11,2
+Mountain Retreat,279,Single,6,115.86,False,2023-01-05,2025-03-23T09:39:48,4
+City Central Inn,780,Double,3,338.7,False,2024-08-23,2025-03-30T19:55:29,5
+Grand Palace,233,Double,4,371.2,True,2023-06-29,2025-05-01T06:01:42,4
+Sunrise Resort,289,Deluxe,4,430.74,True,2024-06-23,2025-03-10T13:44:11,4
+Ocean View Hotel,127,Suite,3,159.39,True,2024-10-07,2025-03-10T03:42:14,3
+Comfort Suites,272,Deluxe,3,123.1,False,2024-10-09,2025-09-13T03:12:29,5
+Sunrise Resort,350,Suite,4,152.75,True,2023-08-06,2025-03-16T21:02:31,1
+Sunrise Resort,417,Family,2,418.25,True,2023-03-25,2025-12-30T03:33:26,3
+Paradise Hotel,727,Deluxe,2,115.37,False,2024-03-04,2025-01-04T01:58:01,1
+Comfort Suites,904,Family,2,176.06,False,2023-06-01,2025-09-02T15:16:55,4
+Mountain Retreat,229,Suite,3,91.2,True,2024-06-02,2025-05-28T13:47:20,2
+Ocean View Hotel,707,Deluxe,1,143.83,True,2024-01-29,2025-05-03T23:53:25,5
+City Central Inn,429,Suite,2,180.3,False,2024-11-23,2025-10-10T19:06:49,1
+Paradise Hotel,102,Double,5,168.66,False,2023-12-28,2025-07-22T02:27:13,2
+Sunrise Resort,329,Deluxe,1,135.25,False,2023-11-06,2025-09-11T00:00:12,5
+Grand Palace,722,Double,1,290.82,False,2023-11-04,2025-09-03T11:19:53,1
+Mountain Retreat,362,Suite,5,221.09,True,2024-12-13,2025-09-19T13:18:09,2
+Mountain Retreat,548,Family,1,168.09,False,2023-06-08,2025-12-03T11:28:30,3
+Comfort Suites,725,Single,1,318.28,True,2023-05-12,2025-09-13T12:58:02,1
+Royal Stay,869,Double,3,251.52,False,2023-07-04,2025-07-15T14:29:39,1
+Grand Palace,560,Single,3,489.2,False,2024-03-12,2025-01-24T19:42:45,2
+City Central Inn,708,Family,3,411.69,False,2023-06-11,2025-08-06T03:53:55,5
+Comfort Suites,831,Double,3,271.21,True,2024-06-03,2025-10-31T14:25:34,4
+Royal Stay,369,Deluxe,5,349.26,True,2024-09-18,2025-08-28T09:57:02,3
+Sunrise Resort,466,Family,2,152.99,True,2023-05-02,2025-03-06T19:02:10,1
+Grand Palace,984,Deluxe,1,266.65,True,2024-01-05,2025-05-07T14:48:20,4
+Royal Stay,362,Suite,5,461.98,True,2023-03-30,2025-08-25T05:22:26,5
+Sunrise Resort,798,Single,6,343.87,True,2023-10-01,2025-07-07T06:40:20,1
+Grand Palace,980,Single,1,436.74,False,2023-12-27,2025-12-05T21:21:57,4
+Ocean View Hotel,344,Deluxe,2,236.2,False,2023-09-29,2025-06-25T09:23:53,4
+Grand Palace,451,Double,4,66.59,False,2024-08-16,2025-02-22T22:59:26,5
+Grand Palace,564,Deluxe,5,165.45,False,2024-12-23,2025-04-23T11:15:10,2
+Ocean View Hotel,796,Deluxe,2,192.32,True,2024-02-19,2025-06-28T19:51:23,1
+Grand Palace,417,Single,5,182.17,False,2023-10-08,2025-10-02T18:58:55,1
+Lakeside Lodge,627,Single,6,295.97,True,2024-11-25,2025-09-30T23:37:25,3
+Grand Palace,682,Suite,4,240.65,True,2023-02-20,2025-03-14T14:36:14,4
+Grand Palace,981,Double,1,322.89,False,2023-06-23,2025-03-02T23:23:36,1
+Ocean View Hotel,341,Single,6,440.76,False,2024-06-29,2025-07-05T19:02:19,3
+Mountain Retreat,705,Deluxe,4,279.35,False,2024-04-02,2025-12-04T00:17:28,3
+Golden Leaf Inn,800,Family,5,410.92,False,2024-12-06,2025-02-01T00:23:15,1
+Ocean View Hotel,656,Single,4,100.42,False,2023-04-08,2025-06-03T08:54:31,5
+Grand Palace,585,Suite,5,497.85,True,2024-12-29,2025-03-29T18:45:36,1
+Golden Leaf Inn,481,Deluxe,4,344.75,True,2024-12-02,2025-06-21T21:34:35,4
+Royal Stay,815,Single,1,122.84,True,2023-05-31,2025-08-23T00:00:42,5
+Ocean View Hotel,878,Single,4,245.66,False,2023-11-04,2025-11-17T02:22:28,4
+City Central Inn,181,Double,4,100.62,True,2023-06-15,2025-05-22T17:42:44,1
+City Central Inn,465,Single,4,303.66,False,2023-11-17,2025-06-27T15:15:45,5
+Comfort Suites,282,Suite,6,116.42,True,2023-07-04,2025-11-25T20:59:17,5
+Golden Leaf Inn,451,Suite,6,270.65,True,2024-09-03,2025-11-19T05:42:14,2
+Paradise Hotel,223,Deluxe,2,421.52,False,2023-07-11,2025-12-04T12:47:06,3
+Ocean View Hotel,870,Single,4,367.17,False,2023-01-08,2025-05-15T01:37:55,1
+Paradise Hotel,485,Double,2,487.87,False,2024-02-24,2025-05-12T04:09:28,5
+Paradise Hotel,966,Single,6,492.83,False,2024-12-18,2025-11-19T21:57:36,2
+City Central Inn,900,Family,4,363.36,False,2024-02-06,2025-01-16T04:02:21,3
+Lakeside Lodge,232,Double,6,138.12,False,2024-02-02,2025-02-11T06:32:06,1
+Sunrise Resort,205,Double,2,64.02,False,2023-03-13,2025-01-05T15:04:30,1
+Mountain Retreat,973,Double,5,334.14,True,2023-12-16,2025-07-21T08:26:41,5
+Grand Palace,905,Suite,2,283.11,False,2023-11-08,2025-12-24T03:16:40,3
+Ocean View Hotel,892,Single,1,213.08,True,2023-09-08,2025-01-17T08:09:56,1
+Ocean View Hotel,407,Suite,4,463.7,True,2024-03-29,2025-01-02T04:17:26,1
+Ocean View Hotel,394,Single,5,374.39,True,2023-03-30,2025-10-29T08:22:10,2
+Lakeside Lodge,526,Single,1,236.48,True,2024-05-31,2025-11-10T01:22:24,5
+Grand Palace,833,Deluxe,3,161.71,True,2023-09-10,2025-10-05T17:18:34,3
+Grand Palace,312,Double,3,380.28,True,2024-11-16,2025-11-05T18:35:04,2
+Paradise Hotel,897,Double,1,207.81,True,2023-08-11,2025-10-11T04:34:17,3
+Grand Palace,422,Double,4,302.47,True,2023-08-10,2025-09-20T14:44:14,2
+Grand Palace,773,Double,3,58.07,False,2024-06-10,2025-03-03T22:26:37,3
+Paradise Hotel,411,Double,6,354.72,False,2024-04-28,2025-07-10T09:56:17,4
+Grand Palace,180,Double,5,440.07,True,2024-09-25,2025-08-30T03:25:03,2
+Ocean View Hotel,272,Single,3,51.09,False,2023-01-07,2025-02-26T14:52:46,1
+City Central Inn,887,Family,1,164.54,False,2024-09-10,2025-10-18T01:28:29,1
+Golden Leaf Inn,435,Deluxe,2,417.84,True,2024-10-25,2025-09-18T01:27:32,1
+Lakeside Lodge,609,Family,1,60.8,False,2023-12-28,2025-12-18T01:01:25,2
+Comfort Suites,493,Deluxe,4,419.03,True,2024-06-05,2025-09-14T17:42:59,5
+Paradise Hotel,119,Family,2,364.47,True,2024-11-14,2025-08-20T13:31:56,3
+Grand Palace,689,Double,2,267.74,False,2024-03-19,2025-07-22T06:25:12,3
+Sunrise Resort,165,Double,2,421.24,True,2024-12-02,2025-05-16T04:54:39,2
+Sunrise Resort,474,Deluxe,3,115.51,True,2023-12-30,2025-05-15T13:07:39,3
+Grand Palace,857,Deluxe,2,169.69,False,2023-01-30,2025-09-30T22:48:18,1
+Sunrise Resort,633,Suite,5,224.69,True,2023-04-03,2025-10-23T03:19:49,4
+Royal Stay,264,Deluxe,3,81.75,True,2023-11-10,2025-06-20T04:31:30,5
+Ocean View Hotel,287,Double,5,169.42,True,2024-12-01,2025-10-14T11:16:11,5
+Ocean View Hotel,235,Double,3,363.34,True,2023-07-07,2025-05-14T19:34:24,5
+Golden Leaf Inn,652,Deluxe,6,121.39,True,2024-10-28,2025-06-17T20:20:19,2
+Mountain Retreat,691,Family,2,436.97,False,2023-08-22,2025-11-08T12:14:09,4
+Sunrise Resort,137,Single,4,189.97,True,2023-03-19,2025-08-24T07:49:34,5
+Royal Stay,352,Deluxe,1,127.74,False,2023-08-24,2025-01-21T08:04:55,2
+Mountain Retreat,139,Double,5,428.56,True,2023-10-02,2025-05-11T20:57:31,2
+Grand Palace,510,Single,5,392.01,True,2023-04-10,2025-05-03T03:37:02,4
+Mountain Retreat,144,Suite,4,354.38,True,2024-05-14,2025-05-24T05:14:14,2
+Sunrise Resort,613,Suite,5,207.44,True,2023-04-21,2025-02-19T18:41:49,5
+Mountain Retreat,480,Family,2,77.72,True,2024-03-18,2025-02-25T13:31:15,1
+Grand Palace,636,Single,2,421.17,True,2024-09-01,2025-08-02T13:44:53,1
+Mountain Retreat,974,Deluxe,1,411.27,False,2024-06-15,2025-05-13T05:40:37,5
+Ocean View Hotel,543,Double,5,357.18,False,2023-05-29,2025-07-29T13:34:05,5
+Mountain Retreat,150,Double,1,276.37,False,2023-09-07,2025-06-08T19:24:45,3
+Ocean View Hotel,336,Single,2,460.24,False,2024-07-23,2025-06-14T07:38:17,4
+Ocean View Hotel,492,Deluxe,4,77.92,True,2023-11-18,2025-07-15T10:01:20,5
+Royal Stay,362,Family,1,205.97,True,2024-02-03,2025-10-16T17:33:13,1
+Paradise Hotel,818,Single,2,436.34,False,2023-05-22,2025-11-07T01:05:23,2
+Lakeside Lodge,155,Double,4,404.77,False,2024-09-29,2025-04-09T20:19:18,4
+Royal Stay,484,Suite,1,210.61,False,2024-08-14,2025-03-14T07:35:02,1
+City Central Inn,503,Family,6,122.03,True,2023-01-18,2025-01-24T10:42:01,4
+Comfort Suites,139,Single,3,374.33,True,2023-06-24,2025-12-14T09:13:54,3
+Ocean View Hotel,249,Deluxe,1,280.33,True,2024-07-29,2025-03-28T02:18:39,4
+Golden Leaf Inn,194,Suite,1,168.22,False,2024-04-14,2025-08-15T09:22:48,1
+Lakeside Lodge,853,Family,5,263.3,True,2023-02-09,2025-03-06T06:55:22,5
+Lakeside Lodge,275,Suite,3,182.3,False,2024-03-06,2025-08-05T02:03:36,2
+Lakeside Lodge,406,Family,3,445.21,True,2023-10-24,2025-01-18T15:04:38,3
+City Central Inn,400,Single,2,146.01,False,2023-04-28,2025-05-22T17:21:42,5
+Grand Palace,962,Double,2,356.0,True,2023-09-02,2025-12-26T05:46:34,2
+Comfort Suites,306,Deluxe,6,370.26,True,2023-06-20,2025-04-21T08:03:41,5
+Ocean View Hotel,882,Deluxe,2,417.2,True,2023-03-10,2025-12-25T10:53:17,3
+Ocean View Hotel,178,Suite,3,207.22,True,2024-09-13,2025-03-19T19:12:14,3
+Mountain Retreat,560,Deluxe,5,108.99,True,2023-05-24,2025-04-08T23:13:26,3
+Ocean View Hotel,257,Deluxe,2,114.25,False,2023-01-12,2025-12-08T08:05:17,4
+Mountain Retreat,355,Double,2,398.67,False,2024-04-19,2025-11-23T20:50:13,5
+Comfort Suites,244,Suite,2,461.78,False,2024-08-05,2025-02-08T10:24:22,2
+City Central Inn,256,Family,4,165.6,False,2024-10-04,2025-12-28T13:34:16,1
+Grand Palace,698,Single,1,156.73,False,2024-07-21,2025-12-11T18:29:34,1
+Ocean View Hotel,993,Suite,4,82.87,False,2023-02-24,2025-08-29T17:30:26,2
+City Central Inn,972,Double,1,290.27,True,2023-06-12,2025-06-19T14:44:48,1
+Grand Palace,112,Deluxe,2,268.49,False,2024-03-31,2025-05-10T03:24:12,3
+Lakeside Lodge,584,Family,2,378.54,True,2023-06-08,2025-04-07T10:18:47,5
+City Central Inn,121,Suite,2,426.38,False,2023-05-20,2025-09-04T02:15:08,4
+Mountain Retreat,937,Single,1,275.28,True,2023-01-05,2025-08-19T15:46:02,3
+Golden Leaf Inn,362,Family,1,372.26,True,2023-06-09,2025-07-29T01:25:20,3
+Royal Stay,777,Single,5,236.01,True,2024-11-03,2025-07-16T15:01:42,1
+Grand Palace,177,Double,4,483.68,False,2024-05-19,2025-02-13T13:31:41,4
+Ocean View Hotel,822,Single,3,96.01,True,2024-01-23,2025-06-07T07:00:13,4
+Lakeside Lodge,566,Suite,6,388.37,True,2023-11-20,2025-02-06T07:05:53,1
+Ocean View Hotel,280,Family,3,189.76,True,2024-11-14,2025-10-30T15:48:27,5
+Sunrise Resort,148,Deluxe,3,251.67,False,2023-08-20,2025-02-23T06:36:28,2
+Golden Leaf Inn,385,Single,5,249.84,False,2023-04-17,2025-01-18T02:16:51,4
+Grand Palace,177,Deluxe,6,428.85,False,2024-04-15,2025-09-25T08:28:52,5
+City Central Inn,455,Double,6,179.45,False,2023-02-26,2025-06-21T10:03:22,4
+Comfort Suites,137,Family,3,301.8,False,2024-08-12,2025-02-25T04:19:06,2
+Sunrise Resort,854,Suite,5,307.1,True,2024-11-28,2025-01-17T03:35:56,5
+Paradise Hotel,273,Family,5,52.37,False,2023-08-19,2025-12-01T00:13:52,2
+Golden Leaf Inn,517,Single,6,303.8,True,2024-08-24,2025-09-27T21:11:23,2
+Royal Stay,308,Deluxe,4,60.53,False,2024-07-12,2025-09-04T01:05:08,1
+Lakeside Lodge,881,Double,1,137.43,False,2023-04-30,2025-11-10T01:11:32,5
+Lakeside Lodge,622,Family,6,394.99,True,2023-02-09,2025-11-28T00:35:36,2
+Comfort Suites,805,Double,1,373.48,False,2024-12-10,2025-08-31T00:39:37,3
+Sunrise Resort,270,Family,3,289.2,False,2023-08-13,2025-11-03T11:24:58,1
+Golden Leaf Inn,544,Deluxe,2,151.79,False,2023-06-12,2025-05-15T12:14:14,2
+Royal Stay,408,Suite,4,255.95,True,2023-03-31,2025-03-18T08:40:09,3
+Golden Leaf Inn,317,Suite,5,499.95,False,2023-09-02,2025-11-11T02:09:16,5
+Mountain Retreat,149,Single,5,131.45,False,2024-01-04,2025-05-05T21:50:55,5
+City Central Inn,578,Suite,5,482.93,False,2024-06-28,2025-09-06T05:21:48,2
+Comfort Suites,134,Deluxe,4,129.84,True,2024-11-05,2025-12-22T05:33:57,1
+Mountain Retreat,167,Double,5,132.57,False,2023-06-11,2025-06-16T02:49:57,3
+Comfort Suites,199,Single,2,298.35,True,2023-02-11,2025-01-16T01:06:09,5
+Ocean View Hotel,157,Single,1,178.02,True,2024-12-23,2025-07-06T00:13:25,1
+City Central Inn,244,Single,6,377.52,True,2023-12-28,2025-06-03T05:44:50,3
+Royal Stay,355,Single,6,68.56,False,2024-06-14,2025-10-26T03:39:04,5
+Golden Leaf Inn,953,Family,5,322.92,False,2024-06-16,2025-08-31T23:38:00,3
+Grand Palace,721,Double,3,76.39,False,2023-09-18,2025-07-10T09:27:34,1
+Ocean View Hotel,595,Family,1,204.23,False,2024-02-29,2025-07-05T01:14:39,5
+Lakeside Lodge,707,Deluxe,4,338.27,True,2024-06-22,2025-12-12T11:46:40,4
+City Central Inn,983,Single,4,51.45,True,2024-08-16,2025-01-27T02:24:26,3
+Paradise Hotel,339,Double,2,203.68,True,2024-03-06,2025-09-11T02:41:17,2
+Grand Palace,540,Suite,6,426.72,True,2023-02-12,2025-11-13T04:31:25,4
+City Central Inn,556,Single,2,209.59,False,2024-01-18,2025-03-13T19:14:53,5
+Lakeside Lodge,770,Double,6,198.39,False,2023-10-30,2025-09-17T23:26:12,1
+Royal Stay,255,Single,4,64.09,False,2023-05-20,2025-07-10T11:34:09,5
+Sunrise Resort,605,Single,1,474.47,True,2023-05-03,2025-03-31T07:20:16,1
+Comfort Suites,875,Suite,3,162.79,False,2023-08-24,2025-04-13T16:06:30,2
+Mountain Retreat,202,Deluxe,1,373.64,False,2023-06-09,2025-01-04T16:10:59,4
+Golden Leaf Inn,886,Suite,1,436.01,True,2024-01-09,2025-02-27T07:20:07,3
+Paradise Hotel,188,Family,4,455.98,False,2023-01-20,2025-04-14T15:45:26,5
+Lakeside Lodge,365,Suite,6,368.23,False,2023-11-01,2025-04-25T03:03:03,4
+Mountain Retreat,611,Double,3,89.4,True,2024-02-09,2025-09-02T03:36:46,4
+Mountain Retreat,668,Family,1,430.77,False,2024-11-29,2025-09-11T10:51:56,5
+Ocean View Hotel,629,Family,4,412.36,True,2023-02-19,2025-11-17T06:51:44,2
+Paradise Hotel,471,Deluxe,4,380.68,False,2024-03-29,2025-03-24T23:05:39,3
+Ocean View Hotel,169,Deluxe,5,110.57,False,2024-11-16,2025-07-13T05:19:58,3
+Comfort Suites,271,Single,1,86.8,True,2023-01-14,2025-03-07T17:28:31,2
+City Central Inn,205,Double,5,137.33,True,2024-11-23,2025-01-28T01:13:24,2
+Ocean View Hotel,532,Double,6,196.02,False,2023-10-11,2025-09-29T20:43:33,4
+Ocean View Hotel,415,Single,3,189.96,False,2023-07-22,2025-03-25T23:12:25,5
+Ocean View Hotel,551,Single,5,163.3,True,2023-10-13,2025-04-29T06:05:39,1
+Ocean View Hotel,716,Suite,5,125.02,True,2023-08-08,2025-01-29T00:12:02,4
+Ocean View Hotel,751,Single,4,368.74,False,2024-07-07,2025-02-10T09:37:36,5
+Royal Stay,714,Deluxe,3,498.46,True,2023-01-12,2025-11-23T11:47:35,1
+Comfort Suites,177,Family,1,199.26,False,2023-09-11,2025-04-29T22:57:44,3
+Ocean View Hotel,570,Single,3,452.68,False,2024-04-13,2025-11-13T21:39:19,4
+Grand Palace,675,Single,4,475.81,True,2023-03-19,2025-04-22T23:15:03,2
+Lakeside Lodge,640,Suite,3,94.92,True,2024-05-25,2025-07-06T07:08:18,1
+Mountain Retreat,881,Suite,3,277.2,True,2023-05-04,2025-03-12T10:21:21,1
+Royal Stay,264,Deluxe,2,496.31,False,2023-12-21,2025-12-07T23:04:13,1
+Sunrise Resort,773,Deluxe,5,173.49,False,2024-08-29,2025-05-01T13:40:09,1
+Lakeside Lodge,166,Double,1,229.87,True,2023-03-08,2025-11-12T11:11:41,5
+Comfort Suites,625,Family,1,254.12,False,2023-10-06,2025-02-13T14:41:16,4
+Grand Palace,703,Double,2,478.79,True,2024-05-22,2025-10-12T19:00:16,4
+City Central Inn,317,Single,1,306.77,True,2023-12-19,2025-12-06T12:31:48,3
+Lakeside Lodge,710,Single,6,437.38,False,2023-02-13,2025-02-26T12:27:54,2
+Golden Leaf Inn,242,Family,5,155.2,False,2023-03-27,2025-08-30T09:31:00,5
+Golden Leaf Inn,206,Double,6,221.69,True,2024-07-04,2025-04-11T02:28:36,4
+Paradise Hotel,346,Family,5,272.9,True,2023-05-17,2025-08-11T05:09:25,3
+Sunrise Resort,483,Double,2,376.43,False,2023-05-05,2025-12-07T11:25:12,5
+Royal Stay,105,Suite,5,391.48,False,2024-11-07,2025-05-24T03:31:15,4
+Sunrise Resort,933,Suite,4,107.91,False,2024-07-23,2025-06-20T01:07:54,2
+Golden Leaf Inn,997,Family,6,334.35,True,2023-03-19,2025-10-15T22:36:32,5
+Royal Stay,396,Double,1,256.89,True,2023-06-28,2025-02-15T04:30:33,4
+Ocean View Hotel,866,Deluxe,3,367.1,True,2024-12-16,2025-06-26T16:07:54,4
+Paradise Hotel,961,Deluxe,6,290.64,False,2024-10-31,2025-05-25T05:28:59,2
+Comfort Suites,971,Deluxe,3,274.95,True,2024-06-27,2025-02-23T11:41:14,2
+Royal Stay,194,Suite,2,446.38,False,2023-07-27,2025-12-30T20:01:39,5
+Ocean View Hotel,250,Deluxe,1,422.79,False,2023-08-31,2025-06-25T23:07:35,2
+Royal Stay,762,Deluxe,4,259.86,True,2023-12-26,2025-10-29T20:01:48,3
+City Central Inn,736,Suite,3,423.81,True,2024-02-16,2025-07-28T17:54:11,1
+Golden Leaf Inn,834,Family,2,337.48,True,2023-11-13,2025-12-12T06:40:16,4
+Grand Palace,712,Double,6,192.48,True,2023-02-19,2025-05-05T10:15:05,2
+Grand Palace,543,Deluxe,4,243.17,False,2024-05-09,2025-06-22T17:34:18,3
+Comfort Suites,990,Family,5,338.35,False,2024-07-18,2025-09-04T22:15:38,4
+City Central Inn,987,Family,2,199.07,True,2024-10-04,2025-06-10T20:52:27,1
+Royal Stay,177,Deluxe,2,302.69,False,2024-09-15,2025-09-03T03:50:39,5
+Lakeside Lodge,389,Single,4,226.23,False,2023-09-15,2025-10-10T10:30:01,5
+Grand Palace,897,Deluxe,4,328.93,True,2023-08-15,2025-03-26T06:29:14,1
+Lakeside Lodge,329,Double,4,196.47,False,2024-07-31,2025-04-13T23:11:29,3
+Royal Stay,177,Double,5,316.13,True,2024-09-05,2025-03-20T17:11:33,1
+Royal Stay,523,Suite,4,216.62,False,2023-07-18,2025-06-27T19:56:37,1
+Ocean View Hotel,715,Deluxe,4,383.88,True,2023-02-26,2025-08-29T11:06:37,1
+Royal Stay,162,Double,6,373.48,True,2023-06-18,2025-01-16T17:41:18,5
+Paradise Hotel,423,Double,1,254.2,False,2024-12-27,2025-02-19T05:20:56,2
+Ocean View Hotel,728,Deluxe,5,472.51,False,2024-01-20,2025-05-30T16:40:41,4
+Paradise Hotel,430,Single,1,290.01,False,2024-10-24,2025-09-23T13:46:54,1
+Ocean View Hotel,180,Family,3,448.84,True,2024-12-06,2025-08-20T01:59:14,2
+Ocean View Hotel,181,Family,2,451.97,False,2024-04-13,2025-07-02T09:35:48,3
+City Central Inn,476,Double,6,354.23,True,2023-10-13,2025-05-14T03:19:21,3
+Comfort Suites,618,Family,3,254.59,True,2023-04-02,2025-06-11T02:49:30,5
+Lakeside Lodge,231,Single,1,485.53,True,2023-04-12,2025-06-07T13:44:18,5
+Sunrise Resort,589,Deluxe,5,96.97,True,2023-11-10,2025-12-03T21:59:46,1
+Mountain Retreat,477,Family,2,406.96,False,2024-04-03,2025-03-06T12:53:57,2
+Lakeside Lodge,395,Suite,3,221.96,True,2024-03-24,2025-01-13T09:08:46,5
+Lakeside Lodge,308,Deluxe,4,84.2,True,2023-02-13,2025-06-21T12:00:57,2
+Royal Stay,473,Family,4,443.69,False,2024-03-11,2025-05-11T09:06:18,4
+Grand Palace,296,Deluxe,1,58.26,True,2024-06-26,2025-08-13T20:32:53,5
+City Central Inn,217,Deluxe,1,276.22,True,2024-05-21,2025-10-07T22:45:47,2
+Ocean View Hotel,793,Double,4,339.14,True,2023-05-08,2025-03-06T05:46:23,4
+City Central Inn,788,Single,3,322.26,False,2023-06-27,2025-05-26T13:33:13,5
+Ocean View Hotel,573,Suite,6,133.19,True,2024-06-12,2025-01-09T00:53:02,2
+Lakeside Lodge,662,Single,3,283.62,True,2024-02-22,2025-04-21T07:47:44,3
+Lakeside Lodge,807,Family,4,460.0,False,2023-11-29,2025-07-15T00:20:02,2
+Ocean View Hotel,580,Single,3,267.38,True,2024-09-09,2025-10-02T09:44:16,2
+Sunrise Resort,471,Family,4,50.77,True,2023-08-23,2025-05-20T04:12:21,2
+Golden Leaf Inn,988,Suite,4,435.57,True,2024-12-30,2025-01-24T02:36:46,1
+City Central Inn,822,Deluxe,1,315.59,False,2023-02-22,2025-03-09T17:14:13,4
+Grand Palace,681,Family,1,51.1,False,2024-12-12,2025-01-13T13:28:23,2
+Grand Palace,728,Deluxe,2,376.12,False,2023-02-17,2025-08-30T17:28:13,1
+Royal Stay,616,Double,3,448.17,True,2024-03-26,2025-04-15T19:17:51,5
+Comfort Suites,764,Single,6,432.79,False,2023-06-28,2025-06-24T11:06:26,1
+City Central Inn,640,Double,1,117.79,True,2024-10-05,2025-04-02T14:05:26,2
+Royal Stay,452,Single,6,408.36,False,2024-12-27,2025-06-05T13:53:13,2
+City Central Inn,165,Suite,4,426.75,False,2024-06-13,2025-09-25T15:37:16,3
+Sunrise Resort,489,Single,2,462.64,False,2024-07-30,2025-11-01T12:22:53,3
+Lakeside Lodge,658,Family,4,301.24,True,2024-03-17,2025-09-03T20:03:12,4
+Golden Leaf Inn,333,Double,3,283.53,True,2023-01-29,2025-06-29T13:18:34,2
+Comfort Suites,783,Suite,6,261.37,True,2024-01-09,2025-10-24T22:07:55,3
+City Central Inn,173,Suite,1,172.57,True,2024-02-07,2025-07-01T03:04:09,3
+Golden Leaf Inn,956,Family,6,348.94,False,2023-09-24,2025-11-01T16:35:36,5
+Mountain Retreat,866,Double,5,484.44,False,2023-04-10,2025-02-23T19:16:59,4
+Golden Leaf Inn,720,Double,3,413.68,True,2023-10-31,2025-09-20T13:53:13,5
+Sunrise Resort,656,Family,3,420.86,False,2023-07-05,2025-09-21T22:23:43,3
+Grand Palace,944,Deluxe,5,56.49,False,2024-04-27,2025-08-27T15:23:52,3
+Comfort Suites,293,Family,4,176.11,True,2024-10-01,2025-08-22T10:24:35,3
+Sunrise Resort,949,Double,2,418.06,False,2023-10-07,2025-06-18T20:00:00,5
+Comfort Suites,854,Suite,1,366.51,True,2023-08-15,2025-05-03T20:05:17,4
+Ocean View Hotel,614,Family,6,269.48,False,2024-03-19,2025-03-11T06:57:18,2
+Comfort Suites,793,Family,2,283.28,False,2024-12-17,2025-06-12T06:10:21,1
+Mountain Retreat,753,Single,3,238.9,True,2024-08-22,2025-06-26T09:35:41,5
+Comfort Suites,476,Single,5,188.97,True,2024-02-01,2025-10-08T15:49:09,5
+Lakeside Lodge,819,Single,5,170.69,True,2024-08-12,2025-06-07T20:57:11,4
+Ocean View Hotel,368,Suite,6,128.23,True,2023-05-21,2025-07-28T01:01:05,1
+Comfort Suites,503,Family,1,335.93,True,2023-08-04,2025-06-29T04:48:46,1
+Comfort Suites,661,Family,4,83.58,False,2024-11-17,2025-09-14T08:56:58,4
+Sunrise Resort,832,Double,3,456.56,False,2024-10-24,2025-04-13T00:14:53,2
+Royal Stay,112,Double,3,100.92,False,2023-06-24,2025-04-12T14:39:45,4
+Lakeside Lodge,831,Single,1,164.95,False,2024-10-22,2025-09-14T11:52:52,4
+Comfort Suites,409,Suite,4,398.33,False,2024-03-04,2025-08-13T16:24:13,2
+Paradise Hotel,527,Deluxe,6,94.73,True,2024-03-26,2025-12-22T22:08:59,4
+Sunrise Resort,873,Suite,5,223.18,False,2024-11-07,2025-09-28T05:55:35,3
+City Central Inn,271,Double,6,96.94,True,2024-01-26,2025-05-01T17:52:14,2
+City Central Inn,515,Double,5,254.89,False,2023-07-11,2025-01-29T19:22:54,2
+Paradise Hotel,118,Single,5,102.71,True,2023-06-06,2025-08-03T23:35:58,4
+Ocean View Hotel,291,Family,1,207.78,False,2024-02-06,2025-02-13T15:09:37,5
+Grand Palace,170,Single,3,94.52,True,2023-05-29,2025-10-24T21:54:45,4
+Comfort Suites,398,Double,5,266.15,False,2024-12-23,2025-03-29T01:36:11,1
+Grand Palace,881,Double,2,341.11,True,2023-06-30,2025-08-01T18:43:54,3
+Royal Stay,774,Family,1,243.6,True,2023-05-30,2025-08-21T01:47:52,2
+City Central Inn,450,Deluxe,1,430.8,True,2024-11-25,2025-12-05T20:01:49,3
+Comfort Suites,581,Double,3,310.37,True,2023-06-23,2025-02-22T01:05:30,5
+Comfort Suites,306,Single,1,410.08,True,2024-01-19,2025-09-29T21:15:56,4
+Comfort Suites,349,Double,6,119.9,False,2024-11-21,2025-12-11T16:57:52,4
+Comfort Suites,677,Single,1,170.65,True,2024-05-11,2025-05-19T23:48:24,1
+Paradise Hotel,483,Suite,2,141.91,True,2024-01-05,2025-10-14T02:28:16,2
+Golden Leaf Inn,530,Family,5,101.72,False,2024-02-25,2025-04-19T06:11:19,4
+Grand Palace,754,Suite,2,252.0,True,2023-06-24,2025-06-06T04:31:56,5
+Sunrise Resort,417,Double,6,74.02,True,2024-07-24,2025-12-14T23:58:54,4
+Paradise Hotel,806,Suite,5,283.08,True,2023-06-09,2025-08-21T06:32:31,2
+Paradise Hotel,349,Double,6,261.17,True,2023-09-07,2025-10-01T10:36:47,1
+Ocean View Hotel,904,Single,4,270.2,False,2023-10-04,2025-01-23T09:35:59,5
+Ocean View Hotel,669,Deluxe,5,288.9,True,2024-02-06,2025-02-01T20:42:18,2
+Golden Leaf Inn,934,Suite,6,319.72,True,2024-02-11,2025-12-09T07:42:34,3
+City Central Inn,114,Family,6,405.7,False,2023-05-12,2025-02-20T10:07:22,1
+Mountain Retreat,908,Deluxe,4,419.67,False,2023-11-26,2025-06-11T10:26:48,1
+Mountain Retreat,449,Single,6,322.02,False,2024-04-04,2025-11-20T03:49:47,4
+Grand Palace,417,Single,4,180.41,True,2023-11-25,2025-10-22T21:56:56,3
+Mountain Retreat,465,Family,5,390.67,False,2024-07-06,2025-06-04T04:09:53,1
+Paradise Hotel,278,Double,6,196.57,False,2024-01-14,2025-06-16T02:08:55,3
+Lakeside Lodge,389,Family,3,415.23,False,2024-03-04,2025-04-02T16:20:03,5
+Mountain Retreat,464,Suite,6,227.77,True,2024-06-09,2025-07-27T06:33:57,3
+Royal Stay,813,Double,4,496.62,True,2024-12-18,2025-12-23T04:37:03,1
+City Central Inn,395,Suite,2,265.76,True,2024-02-21,2025-11-23T18:05:05,3
+Sunrise Resort,168,Single,3,61.22,False,2024-04-06,2025-11-17T07:10:04,4
+Sunrise Resort,244,Double,5,148.5,False,2023-07-21,2025-05-26T20:01:28,4
+Sunrise Resort,404,Deluxe,4,162.12,True,2023-01-05,2025-07-27T06:04:38,2
+Paradise Hotel,430,Family,1,427.08,False,2024-04-17,2025-08-27T18:01:45,3
+Golden Leaf Inn,227,Suite,3,402.91,False,2024-11-19,2025-12-17T15:43:55,1
+City Central Inn,486,Double,4,186.24,False,2023-05-01,2025-10-24T09:55:03,1
+Sunrise Resort,970,Deluxe,6,244.69,False,2024-10-02,2025-01-11T18:08:34,2
+Lakeside Lodge,526,Double,6,317.02,False,2024-04-15,2025-09-07T23:25:17,5
+Grand Palace,878,Single,2,56.76,True,2023-10-19,2025-08-23T18:22:45,3
+Paradise Hotel,120,Single,3,188.82,True,2023-08-01,2025-10-19T06:11:35,5
+Mountain Retreat,990,Family,1,183.62,False,2023-11-05,2025-12-21T11:08:52,2
+Mountain Retreat,477,Deluxe,1,348.08,False,2023-11-25,2025-10-09T16:03:12,3
+Comfort Suites,298,Double,3,150.66,False,2024-10-06,2025-10-09T00:31:46,3
+Golden Leaf Inn,920,Double,6,339.07,False,2024-12-07,2025-09-05T21:47:01,3
+Grand Palace,337,Suite,5,92.54,True,2023-09-22,2025-07-09T17:06:32,3
+Mountain Retreat,206,Family,2,101.75,True,2023-03-04,2025-12-06T06:06:42,5
+Sunrise Resort,325,Suite,1,373.87,False,2023-10-21,2025-06-17T04:32:22,3
+Royal Stay,619,Family,5,149.73,False,2023-02-27,2025-07-31T19:08:06,5
+Royal Stay,765,Suite,2,327.87,False,2023-04-06,2025-02-04T05:37:24,1
+Comfort Suites,294,Family,3,73.92,True,2024-12-04,2025-07-18T15:56:07,5
+Lakeside Lodge,134,Double,6,357.97,True,2024-11-19,2025-04-05T10:33:15,5
+Comfort Suites,692,Suite,5,138.63,False,2024-04-01,2025-02-26T03:50:54,2
+Royal Stay,442,Single,4,423.74,True,2024-12-12,2025-11-07T15:22:31,5
+Lakeside Lodge,951,Double,2,57.24,False,2024-10-29,2025-09-09T20:27:47,1
+City Central Inn,165,Family,5,301.44,True,2023-06-27,2025-05-23T14:02:59,1
+Royal Stay,408,Single,2,440.62,False,2024-06-23,2025-07-15T19:03:53,5
+Royal Stay,901,Deluxe,4,467.25,False,2023-09-16,2025-02-17T04:15:05,3
+Grand Palace,530,Suite,4,180.96,True,2024-01-23,2025-03-16T18:39:41,2
+Lakeside Lodge,421,Double,1,117.7,True,2023-08-06,2025-04-02T04:33:07,4
+City Central Inn,162,Suite,1,456.37,True,2024-07-03,2025-05-05T05:46:02,4
+Sunrise Resort,591,Double,5,458.45,True,2024-03-31,2025-01-04T00:46:33,3
+Mountain Retreat,346,Suite,6,222.04,False,2024-06-16,2025-09-07T03:07:46,1
+Sunrise Resort,932,Double,4,446.04,False,2024-06-16,2025-11-18T09:14:31,3
+Comfort Suites,237,Double,2,478.5,True,2023-07-04,2025-12-13T12:57:48,2
+Golden Leaf Inn,820,Suite,3,219.57,True,2024-01-19,2025-05-03T12:20:38,2
+Lakeside Lodge,518,Single,3,396.0,False,2023-04-25,2025-03-02T01:20:48,1
+Comfort Suites,223,Suite,4,203.71,False,2023-08-09,2025-07-27T04:42:55,4
+Ocean View Hotel,581,Family,2,186.56,True,2024-08-26,2025-03-13T03:52:15,3
+Golden Leaf Inn,798,Single,2,394.7,False,2024-07-10,2025-04-11T03:07:37,3
+City Central Inn,949,Suite,5,286.35,True,2024-02-19,2025-01-10T22:52:59,1
+Mountain Retreat,670,Double,6,451.52,False,2023-01-30,2025-09-07T03:05:00,3
+Paradise Hotel,385,Suite,3,442.41,True,2023-05-14,2025-11-18T22:40:11,5
+Paradise Hotel,246,Suite,5,85.09,False,2024-05-28,2025-10-06T16:59:34,5
+Ocean View Hotel,794,Suite,5,280.65,False,2024-01-08,2025-02-01T08:35:01,1
+Sunrise Resort,585,Double,2,211.99,True,2023-08-05,2025-09-06T14:07:46,1
+Grand Palace,694,Double,5,69.41,True,2023-03-25,2025-10-21T00:48:21,4
+Sunrise Resort,782,Family,4,367.59,False,2024-03-03,2025-02-15T09:03:31,2
+Lakeside Lodge,579,Family,4,122.94,False,2023-09-15,2025-12-21T01:08:06,1
+Comfort Suites,849,Single,3,225.84,True,2024-05-10,2025-09-18T20:50:47,4
+Lakeside Lodge,295,Deluxe,1,413.18,False,2023-02-22,2025-08-21T20:00:53,1
+Paradise Hotel,413,Suite,4,412.86,True,2023-05-29,2025-12-26T11:19:40,1
+Paradise Hotel,285,Suite,6,91.78,True,2024-08-27,2025-04-26T06:20:35,2
+Lakeside Lodge,941,Suite,4,138.22,True,2023-12-07,2025-10-18T03:13:23,4
+Comfort Suites,940,Single,3,84.76,False,2024-02-08,2025-03-05T04:04:22,5
+Ocean View Hotel,584,Suite,1,176.33,False,2024-12-05,2025-05-18T21:52:37,3
+Ocean View Hotel,528,Deluxe,1,116.44,True,2023-06-11,2025-11-25T07:44:59,4
+Royal Stay,901,Suite,3,311.33,True,2024-12-01,2025-04-10T12:54:44,1
+Lakeside Lodge,519,Single,2,469.81,False,2023-10-16,2025-09-11T08:00:25,5
+Lakeside Lodge,771,Single,5,121.51,False,2024-04-03,2025-05-04T21:30:24,1
+Lakeside Lodge,400,Suite,3,409.93,False,2024-03-02,2025-11-27T16:42:31,4
+Mountain Retreat,215,Family,4,383.77,True,2024-03-08,2025-05-14T03:40:26,2
+Ocean View Hotel,656,Family,1,397.6,True,2023-02-15,2025-12-26T22:54:11,5
+Golden Leaf Inn,319,Double,4,133.01,False,2023-03-22,2025-08-02T12:44:28,2
+Lakeside Lodge,930,Double,4,136.63,True,2023-07-24,2025-08-21T15:36:08,3
+Comfort Suites,186,Single,4,338.83,False,2024-08-30,2025-04-16T13:19:01,5
+Lakeside Lodge,525,Suite,1,292.41,False,2023-03-30,2025-03-24T01:15:38,4
+Grand Palace,376,Family,5,270.77,False,2024-10-21,2025-10-26T14:23:23,3
+Grand Palace,652,Deluxe,6,157.21,False,2023-06-09,2025-01-05T19:12:13,3
+Royal Stay,207,Single,6,234.8,True,2024-09-01,2025-09-26T14:25:26,3
+Sunrise Resort,747,Deluxe,2,71.42,True,2024-09-23,2025-01-16T17:35:32,3
+Golden Leaf Inn,890,Suite,5,436.9,True,2023-03-19,2025-09-22T15:40:42,1
+Grand Palace,731,Single,1,124.4,True,2023-07-11,2025-06-05T04:22:07,5
+Royal Stay,786,Double,6,436.37,False,2023-08-31,2025-09-12T17:19:56,1
+Sunrise Resort,796,Family,5,250.6,True,2024-10-03,2025-04-10T20:18:20,3
+Golden Leaf Inn,720,Double,4,475.12,False,2024-01-15,2025-02-26T00:53:41,5
+Mountain Retreat,996,Family,5,118.1,False,2023-05-04,2025-09-20T03:59:47,4
+Lakeside Lodge,500,Family,3,112.17,True,2024-03-20,2025-06-22T23:48:38,3
+Golden Leaf Inn,818,Suite,1,55.26,True,2023-11-08,2025-04-25T11:01:52,1
+Paradise Hotel,266,Single,6,226.04,False,2024-11-10,2025-07-24T22:03:07,3
+Paradise Hotel,291,Deluxe,3,401.62,True,2024-08-06,2025-11-19T18:29:02,1
+City Central Inn,717,Suite,5,494.99,False,2024-03-26,2025-01-25T22:14:56,4
+Mountain Retreat,277,Suite,4,419.47,False,2023-07-26,2025-03-07T15:57:33,5
+Sunrise Resort,921,Single,4,189.99,False,2024-01-04,2025-06-20T04:10:26,3
+Lakeside Lodge,931,Family,5,78.88,True,2024-06-15,2025-11-24T11:48:31,5
+Royal Stay,143,Suite,5,309.52,False,2024-07-13,2025-01-11T15:39:57,4
+Mountain Retreat,246,Suite,3,398.96,True,2023-04-23,2025-03-27T20:53:35,1
+City Central Inn,857,Family,4,453.09,True,2023-08-07,2025-03-24T23:33:11,5
+Ocean View Hotel,885,Single,4,214.17,False,2024-12-28,2025-04-02T04:13:39,2
+Paradise Hotel,597,Double,3,125.88,True,2023-08-21,2025-07-08T05:28:02,1
+Paradise Hotel,783,Single,6,221.96,True,2024-08-23,2025-08-13T21:50:06,5
+Sunrise Resort,149,Suite,3,157.4,False,2023-03-20,2025-09-14T16:22:33,2
+Comfort Suites,202,Double,5,74.11,True,2024-04-14,2025-05-02T11:03:06,4
+Ocean View Hotel,783,Single,6,260.93,True,2023-03-19,2025-05-12T13:22:25,5
+Mountain Retreat,156,Double,2,156.35,True,2024-12-07,2025-02-12T19:10:00,3
+Mountain Retreat,936,Deluxe,3,205.19,False,2023-03-13,2025-07-20T04:10:50,1
+Golden Leaf Inn,624,Single,5,132.53,False,2024-06-15,2025-07-13T11:48:57,4
+Ocean View Hotel,731,Single,2,61.4,True,2024-12-13,2025-02-24T10:58:25,1
+Golden Leaf Inn,193,Deluxe,1,347.06,False,2023-12-13,2025-06-04T00:01:32,4
+Royal Stay,458,Single,3,483.28,True,2023-10-05,2025-04-07T00:29:07,5
+Mountain Retreat,877,Suite,6,143.42,False,2023-11-27,2025-07-13T20:59:06,2
+Grand Palace,143,Single,5,68.66,False,2024-06-30,2025-12-02T07:05:19,1
+Golden Leaf Inn,711,Single,3,387.29,False,2023-08-18,2025-05-25T02:31:32,2
+Paradise Hotel,191,Deluxe,3,179.34,True,2023-07-19,2025-10-13T02:48:20,4
+Lakeside Lodge,551,Double,4,208.44,False,2024-01-13,2025-05-27T20:14:39,2
+Golden Leaf Inn,270,Suite,4,416.08,False,2024-01-17,2025-09-25T20:41:05,1
+Royal Stay,504,Suite,4,408.59,True,2023-03-29,2025-06-22T17:51:17,1
+Golden Leaf Inn,401,Single,5,223.24,True,2024-04-09,2025-12-08T03:10:18,4
+Royal Stay,948,Single,5,336.78,True,2023-01-20,2025-12-10T00:42:38,5
+Comfort Suites,916,Family,2,67.76,False,2024-08-08,2025-01-02T23:06:51,5
+Grand Palace,504,Single,4,148.03,False,2024-07-06,2025-10-01T00:59:50,3
+Grand Palace,657,Single,5,419.12,True,2024-11-06,2025-09-08T03:59:16,4
+Comfort Suites,651,Suite,4,432.06,False,2023-09-03,2025-02-05T02:17:44,1
+Paradise Hotel,296,Single,4,371.84,False,2023-08-07,2025-12-16T16:48:55,3
+Comfort Suites,813,Single,5,139.47,False,2023-07-16,2025-10-19T12:08:40,2
+Sunrise Resort,524,Double,6,201.24,False,2024-07-24,2025-02-17T10:26:24,4
+Grand Palace,814,Deluxe,5,392.96,True,2023-08-09,2025-12-19T03:16:52,3
+Grand Palace,769,Family,3,265.28,True,2023-10-03,2025-02-23T08:22:02,4
+Mountain Retreat,652,Single,6,453.16,False,2024-03-25,2025-10-23T11:08:44,4
+Royal Stay,733,Deluxe,4,183.15,True,2023-03-08,2025-02-27T06:35:11,2
+Ocean View Hotel,201,Single,4,344.75,True,2023-08-17,2025-05-21T05:21:35,2
+Grand Palace,799,Single,4,197.35,True,2024-10-24,2025-12-05T01:37:59,1
+Mountain Retreat,751,Single,4,445.93,True,2023-11-07,2025-05-20T14:35:22,3
+Paradise Hotel,482,Double,5,463.23,False,2024-07-27,2025-04-13T22:40:12,1
+Comfort Suites,282,Family,4,409.04,False,2024-10-18,2025-01-23T09:27:17,3
+Grand Palace,636,Single,4,112.6,False,2023-07-11,2025-07-28T01:47:42,3
+Lakeside Lodge,979,Family,3,111.78,False,2024-03-27,2025-10-29T11:48:09,5
+Royal Stay,843,Single,2,352.47,True,2023-09-12,2025-05-20T16:32:06,3
+Golden Leaf Inn,781,Family,2,343.77,False,2023-01-16,2025-11-29T19:54:40,3
+City Central Inn,790,Double,1,239.06,True,2024-10-09,2025-05-31T05:00:32,2
+Sunrise Resort,347,Deluxe,6,318.6,True,2024-06-03,2025-05-01T08:17:28,5
+Mountain Retreat,561,Double,4,133.67,False,2023-10-29,2025-09-24T23:01:00,5
+Royal Stay,896,Family,5,250.75,False,2023-11-12,2025-11-21T03:15:53,2
+Ocean View Hotel,236,Single,6,395.45,False,2023-11-29,2025-11-08T05:45:39,4
+Comfort Suites,835,Single,1,404.52,True,2023-12-21,2025-06-18T22:20:20,1
+Grand Palace,395,Suite,5,115.56,False,2023-09-08,2025-01-11T19:01:03,5
+Mountain Retreat,693,Family,6,283.27,True,2023-07-10,2025-04-28T20:07:25,3
+Sunrise Resort,797,Deluxe,2,346.79,True,2024-11-04,2025-02-09T02:42:24,4
+Mountain Retreat,424,Family,5,156.48,False,2024-09-07,2025-12-04T04:44:33,4
+Mountain Retreat,624,Single,4,116.08,True,2024-09-06,2025-12-21T03:38:12,2
+Comfort Suites,918,Family,6,392.0,True,2024-12-02,2025-04-04T07:19:19,1
+Paradise Hotel,614,Double,5,304.4,True,2023-12-31,2025-02-13T23:04:17,1
+Grand Palace,885,Single,2,370.43,False,2024-06-07,2025-05-07T16:17:03,2
+Golden Leaf Inn,164,Suite,5,96.45,True,2024-05-06,2025-01-02T08:09:48,4
+Lakeside Lodge,362,Single,3,68.15,True,2024-05-12,2025-02-14T09:06:25,1
+Paradise Hotel,905,Single,5,217.05,False,2024-09-15,2025-02-21T07:30:38,3
+Grand Palace,448,Suite,1,231.47,False,2023-09-23,2025-12-10T21:15:50,1
+Paradise Hotel,342,Double,1,224.52,False,2024-07-24,2025-10-09T05:15:52,2
+Golden Leaf Inn,377,Double,3,297.77,True,2024-10-18,2025-07-18T14:07:30,1
+Lakeside Lodge,643,Single,4,217.12,False,2024-11-28,2025-06-14T01:26:41,2
+City Central Inn,635,Single,3,483.72,True,2023-05-09,2025-11-22T22:29:03,2
+Lakeside Lodge,981,Suite,4,307.49,True,2024-08-04,2025-09-14T05:16:10,2
+Comfort Suites,617,Family,2,79.52,True,2024-04-25,2025-09-05T13:43:31,4
+Sunrise Resort,124,Family,1,380.62,False,2024-01-16,2025-02-11T01:57:57,4
+Lakeside Lodge,293,Suite,3,70.18,True,2023-12-18,2025-12-30T20:54:26,3
+Lakeside Lodge,518,Deluxe,6,60.25,True,2023-06-17,2025-09-25T18:42:03,3
+Comfort Suites,352,Single,4,217.09,False,2024-05-09,2025-12-09T02:33:30,5
+Royal Stay,327,Family,6,369.81,True,2023-03-23,2025-05-22T14:46:07,1
+Mountain Retreat,115,Suite,3,327.51,True,2023-11-04,2025-11-26T01:48:01,3
+City Central Inn,917,Family,6,428.26,True,2023-04-01,2025-01-03T18:41:10,3
+Grand Palace,652,Suite,5,294.48,True,2023-10-06,2025-02-21T14:11:57,2
+Grand Palace,484,Family,5,176.47,True,2024-08-09,2025-08-11T10:10:02,2
+Lakeside Lodge,785,Deluxe,5,136.34,True,2023-10-25,2025-01-20T03:37:38,3
+City Central Inn,664,Deluxe,4,448.7,True,2024-12-22,2025-05-17T14:35:53,2
+Paradise Hotel,628,Suite,1,197.57,True,2023-04-01,2025-07-06T02:32:40,2
+Sunrise Resort,203,Deluxe,3,305.15,False,2023-05-26,2025-09-05T21:16:04,3
+Grand Palace,441,Single,3,332.17,False,2024-04-13,2025-09-20T20:00:09,1
+Lakeside Lodge,489,Suite,2,147.09,True,2024-09-01,2025-11-09T20:30:10,1
+Ocean View Hotel,317,Suite,5,467.73,False,2024-07-21,2025-07-22T12:48:49,5
+Grand Palace,694,Single,4,307.67,False,2024-04-25,2025-05-05T16:00:31,5
+Sunrise Resort,160,Deluxe,5,106.08,True,2023-10-27,2025-02-05T01:29:23,3
+Comfort Suites,343,Family,1,121.51,False,2023-10-17,2025-10-09T13:21:08,2
+Sunrise Resort,873,Single,1,328.54,True,2024-05-26,2025-09-11T01:58:58,3
+Lakeside Lodge,863,Suite,2,267.31,True,2023-10-12,2025-12-01T18:49:15,3
+Ocean View Hotel,817,Family,3,185.0,True,2024-11-07,2025-02-02T10:12:57,2
+Ocean View Hotel,170,Family,2,92.27,False,2024-09-30,2025-10-15T12:58:21,3
+Sunrise Resort,993,Double,6,274.26,False,2023-09-05,2025-05-12T01:06:56,2
+Sunrise Resort,485,Single,1,91.7,False,2023-07-01,2025-05-15T20:08:00,3
+Comfort Suites,302,Deluxe,6,358.06,True,2023-02-02,2025-03-12T06:04:39,1
+Sunrise Resort,444,Deluxe,5,65.24,True,2024-06-22,2025-04-13T12:49:48,4
+Ocean View Hotel,694,Deluxe,1,407.74,True,2023-12-28,2025-10-12T02:36:20,4
+Mountain Retreat,245,Single,3,70.69,True,2023-06-07,2025-12-24T17:29:35,2
+Mountain Retreat,151,Family,3,190.21,False,2024-02-24,2025-01-28T04:47:30,1
+Royal Stay,943,Suite,2,363.84,True,2023-01-29,2025-07-01T06:48:32,1
+Grand Palace,867,Single,6,228.47,True,2023-02-15,2025-02-27T17:21:39,1
+Paradise Hotel,960,Double,1,320.12,True,2023-01-19,2025-12-06T23:57:56,2
+Golden Leaf Inn,469,Deluxe,2,166.03,False,2023-07-08,2025-09-16T01:51:03,2
+Grand Palace,613,Single,2,107.5,True,2024-03-19,2025-06-13T04:00:44,4
+Ocean View Hotel,149,Deluxe,2,178.77,False,2024-10-31,2025-01-26T21:19:00,5
+Ocean View Hotel,806,Deluxe,4,459.36,True,2024-10-24,2025-06-17T05:16:02,2
+Grand Palace,392,Suite,6,497.12,False,2024-05-29,2025-05-21T20:13:02,5
+City Central Inn,952,Double,1,127.33,True,2024-01-16,2025-03-20T16:42:55,3
+Golden Leaf Inn,285,Double,3,431.32,True,2024-10-09,2025-06-14T09:02:13,4
+Paradise Hotel,662,Suite,3,419.46,True,2023-04-24,2025-08-28T23:45:57,2
+Lakeside Lodge,936,Double,1,90.42,True,2024-01-06,2025-01-13T18:21:43,2
+Royal Stay,807,Deluxe,3,160.55,True,2023-03-19,2025-10-15T17:57:04,4
+Royal Stay,322,Family,6,493.68,False,2023-07-20,2025-12-18T13:18:57,4
+Golden Leaf Inn,116,Single,5,473.75,True,2023-09-19,2025-07-20T02:12:05,2
+Mountain Retreat,766,Suite,4,185.39,True,2023-08-23,2025-04-15T03:50:47,4
+Golden Leaf Inn,260,Suite,3,314.64,False,2024-10-03,2025-10-20T13:38:00,5
+Golden Leaf Inn,179,Family,1,132.6,True,2024-12-26,2025-08-06T15:07:31,1
+Royal Stay,344,Single,3,55.9,True,2023-07-03,2025-10-06T04:06:54,4
+Grand Palace,271,Suite,1,114.65,False,2024-08-24,2025-03-26T07:39:39,3
+Comfort Suites,624,Family,3,210.23,True,2023-11-16,2025-09-16T01:55:23,2
+Lakeside Lodge,990,Double,4,356.01,False,2023-11-09,2025-08-17T03:55:46,3
+Golden Leaf Inn,502,Deluxe,2,125.91,True,2024-02-06,2025-03-24T20:54:36,3
+Grand Palace,336,Suite,1,257.99,True,2024-12-01,2025-05-06T05:46:20,5
+Golden Leaf Inn,671,Suite,4,125.94,False,2023-12-17,2025-01-06T08:31:36,1
+City Central Inn,992,Single,6,67.02,False,2023-10-11,2025-05-31T20:29:07,4
+Royal Stay,575,Family,2,484.51,True,2023-09-07,2025-10-08T11:13:22,3
+Paradise Hotel,222,Deluxe,1,164.16,False,2024-12-17,2025-01-16T05:20:50,5
+Royal Stay,738,Deluxe,1,414.85,True,2023-10-05,2025-08-05T02:59:48,2
+Grand Palace,566,Double,5,486.3,False,2023-11-09,2025-10-26T18:09:52,3
+Lakeside Lodge,208,Double,2,316.8,False,2024-04-27,2025-07-21T01:09:19,2
+Royal Stay,270,Deluxe,6,230.58,False,2023-05-01,2025-03-28T14:05:28,2
+Grand Palace,420,Suite,2,245.08,False,2023-08-18,2025-10-22T15:11:24,4
