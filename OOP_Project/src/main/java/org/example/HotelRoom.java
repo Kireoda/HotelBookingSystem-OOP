@@ -202,29 +202,6 @@ public class HotelRoom implements Comparable<HotelRoom> {
     }
 
     /**
-     * Changes the price for room.
-     */
-    public void updatePrice(double newPrice) {
-        if (newPrice >= 0) {
-            this.pricePerNight = newPrice;
-        } else {
-            System.err.println("Price cannot be negative.");
-        }
-    }
-
-    /**
-     * Updates hotel rating and validates it to be 0 - 5.
-     */
-    public void updateRating(int rating) {
-        // Validate rating between 0 and 5 (inclusive)
-        if (rating >= 0 && rating <= 5) {
-            this.hotelRating = rating;
-        } else {
-            System.err.println("Rating must be between 0 and 5.");
-        }
-    }
-
-    /**
      * Updates lastMaintenanceDate and sets isBooked to true for maintenance duration.
      */
     public void performMaintenance(LocalDate maintenanceDate) {
@@ -251,25 +228,6 @@ public class HotelRoom implements Comparable<HotelRoom> {
             return true;
         }
         return false;
-    }
-
-    // Sorting methods are typically implemented in a separate utility class or as part of a List's sort() method
-    // using Comparators. They do not belong directly in the HotelRoom class itself.
-    // I am providing empty implementations to resolve your original compilation issue.
-
-    public void SortPrice() {
-        // Sorting logic should be external (e.g., using a Comparator)
-        System.err.println("Sorting rooms should be done externally on a List of rooms.");
-    }
-
-    public void SortRating() {
-        // Sorting logic should be external (e.g., using a Comparator)
-        System.err.println("Sorting rooms should be done externally on a List of rooms.");
-    }
-
-    public void SortAvailability() {
-        // Sorting logic should be external (e.g., using a Comparator)
-        System.err.println("Sorting rooms should be done externally on a List of rooms.");
     }
 
     // Comparator ordering by price then hotelName
